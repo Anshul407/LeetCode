@@ -1,7 +1,7 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-               int n=grid.size();
+       int n=grid.size();
         
             int m=grid[0].size();
              int vis[n][m];
@@ -41,7 +41,5 @@ public:
             }
         }
         if(cnt!=cntf)return -1;
-        return tm;
-        
-    }
+        return tm;}
 };
