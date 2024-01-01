@@ -11,27 +11,27 @@
  */
 class Solution {
 public:
-    void mp(TreeNode*root,int &ans,int &prev){
+    void mp(TreeNode*root,int &ans,long &prev){
         if(root==NULL){
-            ans=1;
+        
             return;
 
         }
         mp(root->left,ans,prev);
 
-        if(root->val<prev){
+        if(root->val<=prev){
             ans=0;
             return ;
         }
         else{
             prev=root->val; 
-            ans=1;
+           
         }
         mp(root->right,ans,prev);
     }
     bool isValidBST(TreeNode* root) {
-        int prev=INT_MIN;
-        int ans=0;
+        long prev=LONG_MIN;
+        int ans=1;
         mp(root,ans,prev);
         return ans;
     }
