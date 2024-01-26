@@ -4,14 +4,14 @@ public:
         int low=0, high= nums.size()-1 ;
         int mid;
         if(target<nums[0]) return 0;
-        while(low<high){
+        while(low<=high){
             mid= (low+high)/2;
             if(nums[mid]==target){
                 return mid;
             }
             else if(nums[mid]>target){
                 high=mid-1;
-                break;
+               
             }
             else low = mid+1;
         }
