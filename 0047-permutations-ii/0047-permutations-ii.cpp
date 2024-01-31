@@ -14,6 +14,7 @@ public:
                 op1.push_back(nums[i]);
                 nums2.erase(nums2.begin()+i);
                 mp(nums2,op1,ans);
+                op1.pop_back();
             }
             else continue;
         }
