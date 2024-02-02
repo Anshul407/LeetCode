@@ -18,7 +18,7 @@ public:
     //     ans[0] = st;
     // }
       
-      if(nums[st]==target)
+      if(st<nums.size()&&nums[st]==target)
       ans[0]=st;
       st=0;
        end=nums.size()-1;
@@ -30,7 +30,7 @@ public:
                st=mid+1;
            }
        }
-       if(nums[end]==target)
+       if(end>=0&&nums[end]==target)
        ans[1]=end;
        return ans;
     }
