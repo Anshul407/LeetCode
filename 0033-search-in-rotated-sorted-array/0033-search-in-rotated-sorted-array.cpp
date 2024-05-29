@@ -19,23 +19,15 @@ void bs(vector<int>&nums,int s,int l,int&ans,int k ){
     int search(vector<int>& nums, int target) {
         int index=0;
         int s=0,l=nums.size()-1;
-        while(s<=l){
+        while(s<l){
             int mid=(s+l)/2;
-            int prev=(mid+nums.size()-1)%nums.size();
-            int next=(mid+1)%nums.size();
-            if(nums[mid]<=nums[prev]&&nums[mid]<=nums[next]){
-                index=mid;
-                break;
-            }
-            if(nums[mid]<=nums[l]){
-                l=mid-1;
-            }
-            else {
-                s=mid+1;
+            if(nums[mid]>nums[0])s=mid+1;
+            else{
+                l=mid;
             }
         }
+        index=s;
         int ans=-1;
-        if(target==nums[index])return index;
         bs(nums,0,index,ans,target);
         if(ans!=-1)return ans;
         bs(nums,index,nums.size()-1,ans,target);
