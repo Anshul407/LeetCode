@@ -1,17 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int cnt=0;
-        int ans=0;
-        for(auto i:nums){
-            if((ans^i)==0&&cnt==0){
-                cnt++;
-            continue;
-            }
-            cnt=0;
-            ans^=i;
+        int ones=0;
+        int two=0;
+        for(int i=0;i<nums.size();i++){
+            ones=(ones^nums[i])&(~two);
+            two=(two^nums[i])&(~ones);
         }
-        return ans;
+        return ones;
     }
 };
