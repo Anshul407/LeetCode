@@ -10,46 +10,58 @@
  */
 class Solution {
 public:
+    ListNode* solve(ListNode* list1, ListNode* list2) {
+        ListNode*temp=list2;
+        ListNode*curr=list1->next;
+        ListNode*prev=list1;
+        if(!list1->next&&!list2->next)
+        {
+               prev->next=list2;
+               prev=list2;
+               return list1;
+        }
+        // if(!list2->next&&list1->next){
+        //     ListNode*temp=list1;
+        //     while(temp->next!=NULL)temp=temp->next;
+        //     temp->next=list2;
+        //     temp=list2;
+        //     return list1;
+        // }
+
+        while(curr!=NULL&&temp){
+            if(prev->val<=temp->val&&temp->val<=curr->val){
+                  ListNode*newdata=new ListNode(temp->val);
+                  
+                    newdata->next=prev->next;
+                    prev->next=newdata;
+                
+                   prev=prev->next;
+                  
+                  temp=temp->next;
+            }else{
+                prev=curr;
+                curr=curr->next;
+            }
+            if(prev->next==NULL){
+                while(temp){
+                    prev->next=temp;
+                    prev=temp;
+                    temp=temp->next;
+                }
+            }
+
+        }
+        return list1;
+    }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if(!list1)return list2;
+        if(!list2)return list1;
         
-        ListNode*head=NULL;
-        ListNode*h=head;
-        if(list1==NULL&&list2!=NULL)return list2;
-        if(list2==NULL&&list1!=NULL)return list1;
-        while(list1!=NULL&&list2!=NULL){
-            if(list1->val<=list2->val){
-                if(head==NULL){
-                    head=list1;
-                    h=head;
-                    list1=list1->next;
-                }
-                else{
-                head->next=list1;
-                head=head->next;
-                list1=list1->next;
-                }
-            }
-            else if(list1->val>list2->val){
-                if(head==NULL){
-                    head=list2;
-                    h=head;
-                    list2=list2->next;
-                }else{
-                head->next=list2;
-                head=head->next;
-                list2=list2->next;}
-            }
+        if(list1->val<list2->val){
+        return solve(list1,list2);}
+        else{
+            return solve(list2,list1);
         }
-        while(list1!=NULL){
-            head->next=list1;
-            head=head->next;
-            list1=list1->next;
-        }
-         while(list2!=NULL){
-            head->next=list2;
-            head=head->next;
-            list2=list2->next;
-        }
-        return h;
+        
     }
 };
