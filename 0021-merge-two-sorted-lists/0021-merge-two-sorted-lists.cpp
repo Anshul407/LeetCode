@@ -27,7 +27,13 @@ public:
         //     temp=list2;
         //     return list1;
         // }
-
+       if(prev->next==NULL){
+                while(temp){
+                    prev->next=temp;
+                    prev=temp;
+                    temp=temp->next;
+                }
+            }
         while(curr!=NULL&&temp){
             if(prev->val<=temp->val&&temp->val<=curr->val){
                   ListNode*newdata=new ListNode(temp->val);
