@@ -10,28 +10,84 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        ListNode*curr=head;
+        ListNode*prev=NULL;
+        while(curr){
+            ListNode*fr=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=fr;
+        }
+        return prev;
+    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-       ListNode*dummy=new ListNode(0);
-       ListNode*temp=dummy;
-       int sum=0;
-       int carry=0;
-       while(l1!=NULL||l2!=NULL||carry){
-           sum=0;
-           if(l1!=NULL){
-               sum+=l1->val;
-               l1=l1->next;
-           }
-           if(l2!=NULL){
-               sum+=l2->val;
-               l2=l2->next;
-           }
-           sum+=carry;
-           carry=sum/10;
-           ListNode *xx=new ListNode(sum%10);
-           temp->next=xx;
-           temp=xx;
+        ListNode*num1=l1;
+        ListNode*num2=l2;
+        ListNode*ans=NULL;
+        ListNode*ans2=NULL;
+        int carry=0;
+        while(num1&&num2){
+            int num=num1->val+num2->val;
+            num+=carry;
+            carry=num/10;
+            num%=10;
+            ListNode*x=new ListNode(num);
+            if(!ans){
+                ans=x;
+                ans2=ans;
+            }
+            else{
+                ans->next=x;
+                ans=x;
+            }
+            num1=num1->next;
+            num2=num2->next;
 
-       }
-       return dummy->next;
+        }
+       
+            while(num1){
+                int num=num1->val;
+            num+=carry;
+            carry=num/10;
+            num%=10;
+            ListNode*x=new ListNode(num);
+            if(!ans){
+                ans=x;
+                ans2=ans;
+            }
+            else{
+                ans->next=x;
+                ans=x;
+            }
+            num1=num1->next;
+            }
+         while(num2){
+                int num=num2->val;
+            num+=carry;
+            carry=num/10;
+            num%=10;
+            ListNode*x=new ListNode(num);
+            if(!ans){
+                ans=x;
+                ans2=ans;
+            }
+            else{
+                ans->next=x;
+                ans=x;
+            }
+            num2=num2->next;
+            }
+            if(carry){
+                ListNode*x=new ListNode(carry);
+                 if(!ans){
+                ans=x;
+            }
+            else{
+                ans->next=x;
+                ans=x;
+            }
+            }
+      return ans2;
     }
 };
