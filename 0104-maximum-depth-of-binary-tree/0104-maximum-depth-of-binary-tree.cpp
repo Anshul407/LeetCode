@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-   
     int maxDepth(TreeNode* root) {
-       if(root==NULL)return 0;
+        if(root==NULL)return 0;
 
-       int leftkaheight=maxDepth(root->left);
-       int rightkaheight=maxDepth(root->right);
-       int rootkaheight=1;
-       int maxheight=rootkaheight+max(leftkaheight,rightkaheight);
+        int leftkaheight=maxDepth(root->left);
+        int rightkaheight=maxDepth(root->right);
 
-       return maxheight;
+        int rootkaheight=1;
+
+        int ans=rootkaheight+max(leftkaheight,rightkaheight);
+        return ans;
     }
 };
