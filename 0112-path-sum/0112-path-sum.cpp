@@ -11,18 +11,22 @@
  */
 class Solution {
 public:
-void mp(TreeNode*root,int ts,int &ls,int &x){
-    if(root==NULL)return ;
-    ls+=root->val;
-    if(ls==ts&&root->left==NULL&&root->right==NULL)x=1;
-    mp(root->left,ts,ls,x);
-    mp(root->right,ts,ls,x);
-    ls-=root->val;
-}
-    bool hasPathSum(TreeNode* root, int targetSum) {
-       int ls=0;
-       int x=0;
-        mp(root,targetSum,ls,x);
-        return x;
+    bool hasPathSum(TreeNode* root, int t) {
+        if(root==NULL){
+           
+            return 0;
+        }
+
+        if(!root->left&&!root->right){
+            t-=root->val;
+            if(t==0)return 1;
+
+            return 0;
+        }
+
+        bool leftkapart=hasPathSum(root->left,t-root->val);
+        bool rightkapart=hasPathSum(root->right,t-root->val);
+
+        return leftkapart||rightkapart;
     }
 };
