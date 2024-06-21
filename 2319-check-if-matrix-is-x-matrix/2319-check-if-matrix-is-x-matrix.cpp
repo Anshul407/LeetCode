@@ -2,24 +2,27 @@ class Solution {
 public:
     bool checkXMatrix(vector<vector<int>>& grid) {
         int i=0,j=0;
+        int sum=0;
         while(i<grid.size()&&j<grid.size()){
             if(grid[i][j]==0)return 0;
-            grid[i][j]=INT_MAX;
+            sum+=grid[i][j];
             i++;
             j++;
         }
         i=0,j=grid.size()-1;
         while(i<grid.size()&&j>=0){
+            
              if(grid[i][j]==0)return 0;
-             grid[i][j]=INT_MAX;
+            if(i!=j)
+            sum+=grid[i][j];
             i++;
             j--;
         }
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid.size();j++){
-                if(grid[i][j]!=0&&grid[i][j]!=INT_MAX)return 0;
-            }
-        }
-        return 1;
+        int total_sum=0;
+        for (const auto& row : grid) {
+        total_sum += std::accumulate(row.begin(), row.end(), 0);
+    }
+    
+        return total_sum==sum;
     }
 };
