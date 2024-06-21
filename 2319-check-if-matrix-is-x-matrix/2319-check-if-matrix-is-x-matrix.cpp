@@ -20,7 +20,7 @@ public:
         }
         int total_sum=0;
         for (const auto& row : grid) {
-        total_sum += std::accumulate(row.begin(), row.end(), 0);
+        total_sum +=accumulate(row.begin(), row.end(), 0);
     }
     
         return total_sum==sum;
