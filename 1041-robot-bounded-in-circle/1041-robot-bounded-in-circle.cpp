@@ -13,7 +13,7 @@ public:
                    p.second='S';
                 }
     }
-       void turnright(pair<pair<int,int>,char>&p){
+    void turnright(pair<pair<int,int>,char>&p){
          if(p.second=='N')
                 p.second='E';
                 else if(p.second=='S'){
