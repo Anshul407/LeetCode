@@ -27,6 +27,8 @@ public:
                 }
     }
     bool isRobotBounded(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
         pair<pair<int,int>,char>p;
         p.first.first=0;
         p.first.second=0;
