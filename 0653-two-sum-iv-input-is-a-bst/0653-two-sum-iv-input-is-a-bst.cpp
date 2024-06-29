@@ -11,29 +11,27 @@
  */
 class Solution {
 public:
-void mp(TreeNode*root,vector<int>&v){
-        if(root==NULL)return ;
-        v.push_back(root->val);
-        mp(root->left,v);
-        mp(root->right,v);
-
-    }
+     unordered_set<int> st;
     bool findTarget(TreeNode* root, int k) {
-        vector<int>v;
-        mp(root,v);
-        sort(v.begin(),v.end());
-        int i=0,j=v.size()-1;
-        int sum=0;
-        if(v.size()==1)return false;
-        while(i<j){
-            sum=v[i]+v[j];
-            if(sum==k)return true;
-            if(sum>k)j--;
-            else{
-                i++;
-            }
+              if(root==NULL)return 0;
 
-        }
-        return false;
+              int val=root->val;
+
+              if(st.find(k-val)!=st.end())return 1;
+
+              bool left=findTarget(root->left,k);
+
+              st.insert(root->val);
+
+              if(left)return 1;
+
+              else{
+                bool right =findTarget(root->right,k);
+                if(right)return 1;
+              }
+
+              return 0;
+        
+
     }
 };
