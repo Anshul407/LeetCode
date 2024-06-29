@@ -16,19 +16,19 @@ public:
               if(root==NULL)return 0;
 
               int val=root->val;
-
-              if(st.find(k-val)!=st.end())return 1;
-
-              bool left=findTarget(root->left,k);
-
-              st.insert(root->val);
+bool left=findTarget(root->left,k);
 
               if(left)return 1;
+              if(st.find(k-val)!=st.end())return 1;
 
-              else{
+              
+              st.insert(root->val);
+
+
+             
                 bool right =findTarget(root->right,k);
-                if(right)return 1;
-              }
+            if(right)return 1;
+              
 
               return 0;
         
