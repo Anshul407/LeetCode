@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(unordered_map<int,vector<int>>mp,int u,vector<int>&vis){
+    void dfs(unordered_map<int,vector<int>>&mp,int u,vector<int>&vis){
         if(vis[u])return ;
         vis[u]=true;
         for(auto v:mp[u]){
