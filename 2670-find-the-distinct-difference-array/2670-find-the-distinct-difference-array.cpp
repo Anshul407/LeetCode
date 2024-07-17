@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> distinctDifferenceArray(vector<int>& nums) {
-        map<int,int>mp1,mp2;
+        unordered_map<int,int>mp1,mp2;
         for(auto i:nums){
             mp2[i]++;
         }
