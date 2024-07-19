@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool p(int x,int y,vector<vector<char>>& board,char val){
-        for(int i=0;i<board.size();i++){
+        for(int i=0;i<board[0].size();i++){
             cout<<board[i][y]<<" "<<board[x][i];
             if(board[i][y]==val)return true;
             if(board[x][i]==val)return true;
-            if(board[3*(x/3)+i/3][3*(y/3)+i%3]==val)return false;
+            if(board[3*(x/3)+i/3][3*(y/3)+i%3]==val)return true;
         }
         return false;
     }
