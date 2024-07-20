@@ -8,11 +8,12 @@ public:
             mp[i]++;
             mini=min(i,mini);
         }
+        int minians=INT_MAX;
         for(auto i:nums2){
-            if(mp.find(i)!=mp.end())return i;
+            if(mp.find(i)!=mp.end())minians=min(minians,i);
              mini2=min(i,mini2);
         }
-
+    if(minians!=INT_MAX)return minians;
      
 
         if(mini2<mini){
