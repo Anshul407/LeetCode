@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 ## Sorting
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
