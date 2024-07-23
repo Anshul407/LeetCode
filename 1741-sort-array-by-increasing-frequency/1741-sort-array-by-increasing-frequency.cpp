@@ -5,7 +5,7 @@ public:
         return p.second<q.second;
     }
     vector<int> frequencySort(vector<int>& nums) {
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         for(auto i:nums){
             mp[i]++;
         }
