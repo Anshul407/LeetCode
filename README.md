@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
+## Sorting
+|  |
+| ------- |
+| [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 <!---LeetCode Topics End-->
