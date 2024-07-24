@@ -14,18 +14,20 @@ public:
         int ans=0;
         int temp=0;
         int i=0;
-        vector<int>dp(nums.size()+1,0);
-        dp[0]=0;
-        dp[1]=nums[0];
+        // vector<int>dp(nums.size()+1,0);
+        // dp[0]=0;
+        // dp[1]=nums[0];
+        int x=0;
+        int y=nums[0];
         for(int i=2;i<=nums.size();i++){
-            dp[i]=max(dp[i-2]+nums[i-1],dp[i-1]);
-            cout<<dp[i]<<" ";
+            int curr=max(x+nums[i-1],y);
+            x=y;
+            y=curr;
+            ans=max(ans,curr);
         }
       
 
-        for(auto i:dp){
-            ans=max(i,ans);
-        }
+      
         return ans;
        
     }
