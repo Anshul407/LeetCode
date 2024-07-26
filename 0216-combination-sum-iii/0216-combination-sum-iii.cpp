@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int i,vector<int>num,vector<int>&temp,int n,int k,vector<vector<int>>&ans){
+    void solve(int i,vector<int>num,vector<int>temp,int n,int k,vector<vector<int>>&ans){
         if(i==num.size()){
             if(temp.size()==k){
             int sum=0;
@@ -22,7 +22,6 @@ public:
         if(temp.empty()||sum<n){
             temp.push_back(num[i]);
             solve(i+1,num,temp,n,k,ans);
-            temp.pop_back();
         }
         
     }
