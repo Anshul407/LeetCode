@@ -8,11 +8,11 @@ public:
         
         for(int x=0;x<m;x++){
             if(j==x)continue;
-            int xx=solve(grid,i+1,x,n,m,dp);
+            int xx=grid[i][j]+solve(grid,i+1,x,n,m,dp);
             ans=min(xx,ans);
         
         }
-        return dp[i][j]=grid[i][j]+ans;
+        return dp[i][j]=ans;
     }
     int minFallingPathSum(vector<vector<int>>& grid) {
         int n=grid.size(),m=grid[0].size();
