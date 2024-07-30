@@ -12,11 +12,13 @@ public:
             }
             else if(i.second%3==2){
                 int num=i.second;
-                while(num!=2){
-                   num-=3; 
-                   ans++;
-                }
-                if(num==2)ans++;
+                // while(num!=2){
+                //    num-=3; 
+                //    ans++;
+                // }
+                ans+=num/3;
+                ans+=(num%3)/2;
+                // if(num==2)ans++;
             }
             else if(i.second%3==1){
                 int num=i.second;
