@@ -22,11 +22,17 @@ public:
             }
             else if(i.second%3==1){
                 int num=i.second;
-                while(num!=4){
-                   num-=3; 
-                   ans++;
-                }
-                if(num==4)ans+=2;
+                // while(num!=4){
+                //    num-=3; 
+                //    ans++;
+                // }
+                // if(num==4)ans+=2;
+                int x=num/3;
+                x--;
+                ans+=x;
+                if(x!=0)
+                num-=(num/x);
+                ans+=num/2;
             }
             else {
                 //saara kaam hogya ab kuch baaki nahi hai thankyou !!
