@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<pair<int,int>>v,int i,vector<vector<vector<int>>>&dp,int m,int n,int size){
+    int solve(vector<pair<int,int>>&v,int i,vector<vector<vector<int>>>&dp,int m,int n,int size){
         if(i>=size)return 0;
         if(m<0||n<0)return 0;
         // if(m==0&&n==0)return 1;
