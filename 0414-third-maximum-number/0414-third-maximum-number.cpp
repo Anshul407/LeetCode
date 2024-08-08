@@ -4,7 +4,7 @@ public:
         long long first = LLONG_MIN;
         long long second = LLONG_MIN;
         long long third = LLONG_MIN;
-        int f=0,ff=0;
+        int f=0;
         
         for(int i=0;i<nums.size();i++){
             if(first<nums[i]){
