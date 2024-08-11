@@ -12,10 +12,7 @@ public:
                 if(i.second){
                 x.push_back(i.first);
                 i.second--;
-                
-                }
-
-                
+                }    
             }
             if(!x.empty())ans.push_back(x);
             else return ans;
