@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(vector<int>&nums,int i,int j, vector<vector<vector<int>>>&dp,bool p){
-        if(i>=j)return 0;
+        if(i>j)return 0;
 
         if(dp[i][j][p]!=-1)return dp[i][j][p];
         int tk1=0,tk2=0;
