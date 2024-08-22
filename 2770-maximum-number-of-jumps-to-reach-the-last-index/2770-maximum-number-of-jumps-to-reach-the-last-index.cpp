@@ -6,7 +6,7 @@ public:
         if(dp[i]!=-1)return dp[i];
         for(int j=i+1;j<nums.size();j++){
              int sol=INT_MIN;
-            if(abs((long long)(nums[j] - nums[i])) <= t){              
+            if(nums[j]-nums[i]<=t&&nums[j]-nums[i]>=(-1*t)){              
                  ans=max(ans,1+solve(nums,j,p+1,t,dp));  
               
             }
