@@ -11,17 +11,18 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root,vector<int>path, int targetSum,int &ans){
+    void solve(TreeNode* root,vector<int>&path, int targetSum,int &ans){
         if(root==NULL)return ;
 
         path.push_back(root->val);
         solve(root->left,path,targetSum,ans);
         solve(root->right,path,targetSum,ans);
-
+        long long x=0;
         for(int i=path.size()-1;i>=0;i--){
-            targetSum-=path[i];
-            if(targetSum==0)ans=ans+1;
+            x+=path[i];
+            if(targetSum==x)ans=ans+1;
         }
+        path.pop_back();
     }
     int pathSum(TreeNode* root, int targetSum) {
         int ans=0;
