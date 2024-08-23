@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int solve(vector<int>&c,int i,long long amt,int x,vector<vector<int>>&dp){
-        if(amt==x)return 0;
-        if(i>=c.size())return INT_MAX;
+    
+    int solve(vector<int>&coins,int i,int k,vector<vector<int>>&dp,int amt){
+       if(k==amt)return 0;
+       if(i>=coins.size())return INT_MAX;
         if(dp[i][amt]!=-1)return dp[i][amt];
-        int tk=INT_MAX,nttk=INT_MAX;
-        if(c[i]+amt<=x){
-            tk=solve(c,i,amt+c[i],x,dp);
-            if(tk!=INT_MAX)tk++;
-        }
-        nttk=solve(c,i+1,amt,x,dp);
+        int tk=INT_MAX,ntk=INT_MAX;
+        if(coins[i]+amt<=k)
+         tk=solve(coins,i,k,dp,amt+coins[i]);
+         if(tk!=INT_MAX)tk++;
+         ntk=solve(coins,i+1,k,dp,amt);
 
-        return dp[i][amt]=min(tk,nttk);
+        return dp[i][amt]=min(tk,ntk);
     }
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount,-1));
-
-        int ans=solve(coins,0,0,amount,dp);
-        return ans==INT_MAX?-1:ans;
+        int amt=0;
+        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
+        int ans= solve(coins,0,amount,dp,amt);
+        if(ans==INT_MAX)return -1;
+        return ans;
     }
 };
