@@ -21,17 +21,13 @@ public:
     return first;
 }
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
-        ListNode*temp=head;
-        ListNode*temp2=head->next;
-        while(temp&&temp->next){
-            int data1=temp->val;
-            int data2=temp->next->val;
-            int gcd1=gcd(data1,data2);
-            ListNode*newdata=new ListNode(gcd1);
-            newdata->next=temp->next;
-            temp->next=newdata;
-            temp=temp->next->next;
+        ListNode*headd=head;
+        while(headd&&headd->next){
+            ListNode* temp=new ListNode(gcd(headd->val,headd->next->val));
+            temp->next=headd->next;
+            headd->next=temp;
             
+            headd=headd->next->next;
         }
         return head;
     }
