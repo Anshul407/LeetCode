@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anshul407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshul407/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Anshul407/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshul407/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
