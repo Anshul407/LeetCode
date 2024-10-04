@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anshul407/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Anshul407/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 ## Matrix
 |  |
 | ------- |
