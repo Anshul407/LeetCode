@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshul407/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -163,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Graph
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
