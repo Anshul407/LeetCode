@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anshul407/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Anshul407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anshul407/LeetCode/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
