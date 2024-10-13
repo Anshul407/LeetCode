@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Anshul407/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Anshul407/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anshul407/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
