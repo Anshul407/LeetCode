@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anshul407/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3189-find-champion-ii](https://github.com/Anshul407/LeetCode/tree/master/3189-find-champion-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/Anshul407/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Shortest Path
