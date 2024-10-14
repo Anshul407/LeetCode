@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0565-array-nesting](https://github.com/Anshul407/LeetCode/tree/master/0565-array-nesting) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshul407/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/Anshul407/LeetCode/tree/master/0565-array-nesting) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0792-binary-search](https://github.com/Anshul407/LeetCode/tree/master/0792-binary-search) |
