@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Anshul407/LeetCode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anshul407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshul407/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Anshul407/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
