@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anshul407/LeetCode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anshul407/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
