@@ -13,18 +13,12 @@ public:
         // for(auto i:mp)cout<<i.first<<" "<<i.second<<" ";
         // cout<<endl;
         for(auto &i:mp){
-           
             if(i.second==0)continue;
             if(i.second>=n){
                 i.second-=n;
                 return i.first;
             }
-        //    else if(i.second==n){
-        //         i.second-=n;
-        //         n=0;
-        //     }
             else{
-                
                 n-=i.second;
                 i.second=0;
             }
