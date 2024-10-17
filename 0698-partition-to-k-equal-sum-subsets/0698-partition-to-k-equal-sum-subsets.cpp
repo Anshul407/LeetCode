@@ -10,8 +10,7 @@ public:
         for(int x=0;x<nums.size();x++){
             if((mask&(1<<x))==0&&cur+nums[x]<=f){
                 int newmask=mask|(1<<x);
-                if(solve(nums,x+1,cur+nums[x],k,newmask))return dp[mask]=1;
-               
+                if(solve(nums,x+1,cur+nums[x],k,newmask))return dp[mask]=1;   
             }
         } 
         return dp[mask]= 0;
@@ -23,7 +22,6 @@ public:
         }
         if(sum%k!=0)return 0;
         f=(sum/k);
-        
         dp.resize((1<<nums.size())+1,-1);
         return solve(nums,0,0,k,0);
         
