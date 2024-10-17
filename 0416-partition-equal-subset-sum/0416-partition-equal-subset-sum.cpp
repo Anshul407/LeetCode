@@ -1,35 +1,22 @@
 class Solution {
 public:
-    bool mp(vector<int>nums,int k){
-        int x=nums.size();
-        int t[x+1][k+1];
-        for(int i=0;i<k+1;i++){
-            t[0][i]=0;
+    vector<vector<int>>dp;
+    int solve(vector<int>&nums,int i,int k){
+        if(k<0)return 0;
+        if(i>=nums.size())return k==0;
+        if(dp[i][k]!=-1)return dp[i][k];
+        int op1=solve(nums,i+1,k-nums[i]);
+        int op2=solve(nums,i+1,k);
+        return dp[i][k]=op1||op2;
         }
-        for(int i=0;i<=nums.size();i++){
-            t[i][0]=1;
-        }
-        for(int i=1;i<=nums.size();i++){
-            for(int j=1;j<k+1;j++){
-                if(nums[i-1]<=j){
-                    t[i][j]=(t[i-1][j-nums[i-1]])||(t[i-1][j]);
-                }
-                else{
-                    t[i][j]=t[i-1][j];
-                }
-            }
-        }
-        return t[x][k];
-        
-    }
     bool canPartition(vector<int>& nums) {
-        long long sum=0;
-        for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
+        int sum=0;
+        for(auto i:nums){
+            sum+=i;
         }
-        if(sum%2!=0)return false;
-        else{
-            return mp(nums,sum/2);
-        }
+        
+        if(sum%2!=0)return 0;
+        dp.resize(nums.size(),vector<int>((sum/2)+1,-1));
+        return solve(nums,0,sum/2);
     }
 };
