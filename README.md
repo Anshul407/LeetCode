@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Anshul407/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anshul407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshul407/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Anshul407/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -380,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
