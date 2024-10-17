@@ -1,22 +1,32 @@
 class Solution {
 public:
     vector<vector<int>>dp;
-    int solve(vector<int>&nums,int i,int k){
-        if(k<0)return 0;
-        if(i>=nums.size())return k==0;
-        if(dp[i][k]!=-1)return dp[i][k];
-        int op1=solve(nums,i+1,k-nums[i]);
-        int op2=solve(nums,i+1,k);
-        return dp[i][k]=op1||op2;
+    int generateSubset(int index,vector<int>& nums,vector<int>& current,int sum,int currSum,vector<int>& result){
+        if(sum-currSum<currSum)return 0;
+        if(index==nums.size())
+        {
+            return sum-currSum==currSum;
         }
-    bool canPartition(vector<int>& nums) {
-        int sum=0;
-        for(auto i:nums){
-            sum+=i;
-        }
+        if(dp[index][sum-currSum]!=-1)return dp[index][sum-currSum];
         
-        if(sum%2!=0)return 0;
-        dp.resize(nums.size(),vector<int>((sum/2)+1,-1));
-        return solve(nums,0,sum/2);
+        int op1=generateSubset(index+1,nums,current,sum,currSum,result);
+        int op2=generateSubset(index+1,nums,current,sum,currSum+nums[index],result);
+
+        return dp[index][sum-currSum]=op1||op2;
+
+
+    }
+    bool canPartition(vector<int>& nums) {
+        vector<int> current;
+        int sum=0;
+        for(auto it:nums)
+        {
+            sum+=it;
+        }
+        vector<int> result;
+        dp.resize(nums.size(),vector<int>(sum+1,-1));
+       return generateSubset(0,nums,current,sum,0, result);
+       
+        
     }
 };
