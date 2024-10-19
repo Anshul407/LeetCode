@@ -1,7 +1,8 @@
 class Solution {
 public:
     long long tot;
-    double m(map<int,int>mp){
+    map<int,int>mp;
+    double m(){
         long long x=0;
         long long t=0;
         for(auto i:mp){
@@ -11,7 +12,7 @@ public:
         tot=t;
         return static_cast<double>(x)/t;
     }
-    double med(map<int, int> mp) {
+    double med() {
         int k=tot/2;
         auto ev=(tot%2==0);
         int c=0,prev=-1;
@@ -26,7 +27,7 @@ public:
         }
         return 1.0;
     }
-    double mod(map<int,int>mp){
+    double mod(){
         int cur=0;
         int ans=0;
         for(auto i:mp){
@@ -39,7 +40,6 @@ public:
     }
 
     vector<double> sampleStats(vector<int>& count) {
-        map<int,int>mp;
         double maxi=0,mini=255.0;
         for(int i=0;i<count.size();i++){
             if(count[i]!=0){mp[i]=count[i];
@@ -47,9 +47,9 @@ public:
             maxi=max(maxi,(double)i);
             }
         }
-        double mean=m(mp);
-        double median=med(mp);
-        double mode=mod(mp);
+        double mean=m();
+        double median=med();
+        double mode=mod();
         return {mini,maxi,mean,median,mode};
 
     }
