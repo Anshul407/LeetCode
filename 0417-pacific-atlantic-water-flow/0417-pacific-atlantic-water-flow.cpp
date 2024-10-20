@@ -3,12 +3,10 @@ public:
     void solve(vector<vector<int>>&heights,int i,int j,vector<vector<int>>&cur,int p){
         if(i<0||j<0||i>=cur.size()||j>=cur[0].size()||heights[i][j]<p||cur[i][j])return ;
         cur[i][j]=1;
-        
         solve(heights,i+1,j,cur,heights[i][j]);
         solve(heights,i-1,j,cur,heights[i][j]);
         solve(heights,i,j+1,cur,heights[i][j]);
-        solve(heights,i,j-1,cur,heights[i][j]);
-       
+        solve(heights,i,j-1,cur,heights[i][j]);   
     }
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         vector<vector<int>>pacific(heights.size(),vector<int>(heights[0].size(),0));
