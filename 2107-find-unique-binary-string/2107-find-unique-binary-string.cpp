@@ -1,28 +1,34 @@
 class Solution {
 public:
+    unordered_map<string,int> mp;
     int n;
-    string solve(map<string,int>&mp,string &temp){
-        if(temp.size()==n){
-            if(mp.find(temp)==mp.end())return temp;
-            return "";
+    string func(string& a,string& b){
+        return a.size()==0?b:a;
+    }
+    string solve(vector<string>& nums,string &s)
+    {
+        if(s.size()==n)
+        {
+            if(mp[s]==0)
+            return s;
+            else return "";
         }
-        temp.push_back('0');
-        string op1=solve(mp,temp);
+        s+="0";
+        string op1=solve(nums,s);
         if(op1.size()==n)return op1;
-        temp.pop_back();
-        temp.push_back('1');
-        string op2=solve(mp,temp);
-        temp.pop_back();
-        return op2;
-
+        s.pop_back();
+        s+="1";
+        string op2=solve(nums,s);
+        s.pop_back();
+       
+        return op2; 
     }
     string findDifferentBinaryString(vector<string>& nums) {
-        map<string,int>mp;
+        for(auto it:nums)
+        mp[it]++;
         n=nums[0].size();
-        for(auto i:nums){
-            mp[i]++;
-        }
+        vector<string> s{"0","1"};
         string temp="";
-       return solve(mp,temp);
+        return solve(s,temp);
     }
 };
