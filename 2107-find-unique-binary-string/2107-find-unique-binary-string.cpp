@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    string solve(map<string,int>mp,string &temp){
+    string solve(map<string,int>&mp,string &temp){
         if(temp.size()==n){
             if(mp.find(temp)==mp.end())return temp;
             return "";
