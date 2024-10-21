@@ -1,34 +1,28 @@
 class Solution {
 public:
-    int target;
-    bool isValid(vector<int>& current,int val){
-        for(auto it:current)
-        {
-            if(abs(it-val)==target)
-            return false;
+    int chck(int s,vector<int>&a,int k){
+        for(auto &i:a){
+            if(abs(i-s)==k)return 0;
         }
-        return true;
+        return 1;
     }
-    int solve(int index,vector<int>& nums,vector<int>& curr)
-    {
-        if(index==nums.size())
-        {
-            return 1;
+    int solve(vector<int>&nums,int i,int &k,vector<int>&a){
+        if(i>=nums.size()){
+            return a.size()>0;
         }
-        int op1=solve(index+1,nums,curr);
-        int op2=0;
-        if(isValid(curr,nums[index]))
-        {
-        curr.push_back(nums[index]);
-        op2=solve(index+1,nums,curr);
-        curr.pop_back();
+
+        int op1=0,op2=0;
+        op2=solve(nums,i+1,k,a);
+        if(chck(nums[i],a,k)){
+            a.push_back(nums[i]);
+            op1=solve(nums,i+1,k,a);
+            a.pop_back();
         }
-        return op1+op2;
+        return op1+op2;   
     }
     int beautifulSubsets(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
-        vector<int> c;
-        target=k;
-        return solve(0,nums,c)-1;
+        vector<int>a;
+        return solve(nums,0,k,a);
     }
 };
