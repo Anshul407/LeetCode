@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anshul407/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anshul407/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anshul407/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
