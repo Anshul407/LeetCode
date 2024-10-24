@@ -13,11 +13,7 @@ public:
                cur.pop_back();
             }
         }
-
         return 0;
-
-        
-
     }
     vector<int> numsSameConsecDiff(int n, int k) {
         string cur="";
