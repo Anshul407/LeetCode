@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anshul407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Anshul407/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Anshul407/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anshul407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Anshul407/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/Anshul407/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshul407/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -478,5 +483,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
