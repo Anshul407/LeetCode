@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1206-corporate-flight-bookings](https://github.com/Anshul407/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshul407/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Anshul407/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1331-path-with-maximum-gold](https://github.com/Anshul407/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
