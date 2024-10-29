@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool solve(string s,int i,int cnt,int size,long long p){
+    bool solve(string &s,int i,int cnt,int size,long long p){
         if(i>=s.size())return cnt>=2;
         for(int j=i;j<s.size();j++){
             auto st=s.substr(i,j-i+1);
