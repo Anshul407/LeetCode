@@ -9,13 +9,11 @@ public:
             if(p==-1||(x==p-1)){
                 cout<<x<<" ";
                 if(solve(s,j+1,cnt+1,size+(j-i+1),x))return 1;
-
             }
         }
         return 0;
     }
     bool splitString(string s) {
-        
         return solve(s,0,0,0,-1);
     }
 };
