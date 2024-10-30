@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int solve(vector<int>&nums,int i,vector<int>&dp){
-        if(i>=nums.size()-1)return 1;
+    int dp[10001];
+    int solve(vector<int>&nums,int i){
+        if(i>=nums.size())return 1;
+        if(nums[i]==0)return i>=nums.size()-1;
         if(dp[i]!=-1)return dp[i];
-        int st=0;
-        int j=nums[i];
-        if(j!=0)
-        for(int x=1;x<=j;x++){
-            st=max(st,solve(nums,i+x,dp));
-            if(st)return dp[i]=st;
+        for(int k=1;k<=nums[i];k++){
+            if(solve(nums,i+k))return dp[i]=1;
         }
-
-        return dp[i]=st;
+        return dp[i]= 0;
     }
     bool canJump(vector<int>& nums) {
-        if(nums.size()==1)return 1;
-       vector<int>dp(nums.size(),-1);
-       return solve(nums,0,dp);
+        memset(dp,-1,sizeof(dp));
+        return solve(nums,0);
     }
 };
