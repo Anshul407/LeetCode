@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Anshul407/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0769-largest-plus-sign](https://github.com/Anshul407/LeetCode/tree/master/0769-largest-plus-sign) |
+| [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Anshul407/LeetCode/tree/master/0972-knight-dialer) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1331-path-with-maximum-gold](https://github.com/Anshul407/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
