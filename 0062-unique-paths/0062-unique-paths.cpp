@@ -1,59 +1,16 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>&v,int i,int j,int n,int m,int &ans){
-        if(i==n-1&&j==m-1){ans++;return ;}
-        
-        if(i<n-1){
-            int up=i+1;
-            if(v[up][j]==1){
-               v[up][j]=0;
-                solve(v,up,j,n,m,ans);
-                v[up][j]=1;
-            }
-        }
-        if(j<m-1){
-            int up=j+1;
-            if(v[i][up]==1){
-                v[i][up]=0;
-                solve(v,i,up,n,m,ans);
-                v[i][up]=1;
-            }
-        }
-    }
-    int dpsolve(vector<vector<int>>&v,int i,int j,int n,int m,vector<vector<int>>&dp){
-        if(i==n-1&&j==m-1)return 1;
-        if(i>=n||j>=m)return 0;
+    int dp[101][101];
+    int solve(int i,int j,int m,int n){
+        if(i>=m||j>=n)return 0;
+        if(i==m-1&&j==n-1)return 1;
         if(dp[i][j]!=-1)return dp[i][j];
-
-        int forward=0;
-        int down=0;
-        if(i<n-1){
-            int up=i+1;
-            if(v[up][j]==1){
-               v[up][j]=0;
-                forward=dpsolve(v,up,j,n,m,dp);
-                v[up][j]=1;
-            }
-        }
-        if(j<m-1){
-            int up=j+1;
-            if(v[i][up]==1){
-                v[i][up]=0;
-                down=dpsolve(v,i,up,n,m,dp);
-                v[i][up]=1;
-            }
-        }
-
-        return dp[i][j]=forward+down;
+        int op1=solve(i+1,j,m,n);
+        int op2=solve(i,j+1,m,n);
+        return dp[i][j]=op1+op2;
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>>v(m,vector<int>(n,1));
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        int ans=0;
-        v[0][0]=0;
-        // solve(v,0,0,m,n,ans);
-        return dpsolve(v,0,0,m,n,dp);
-
-        // return ans;
+        memset(dp,-1,sizeof(dp));
+        return solve(0,0,m,n);
     }
 };
