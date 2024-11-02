@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Anshul407/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anshul407/LeetCode/tree/master/0213-house-robber-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/Anshul407/LeetCode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
