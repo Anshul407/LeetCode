@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Anshul407/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Anshul407/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
