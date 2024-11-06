@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2778-frequency-tracker](https://github.com/Anshul407/LeetCode/tree/master/2778-frequency-tracker) |
+| [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Anshul407/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
