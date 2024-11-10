@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
 ## Bit Manipulation
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Counting
 |  |
 | ------- |
