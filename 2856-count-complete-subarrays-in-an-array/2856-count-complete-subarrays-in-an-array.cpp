@@ -21,7 +21,5 @@ public:
         for(auto i:nums)mp[i]++;
         int k=mp.size();
         return solve(nums,k)-solve(nums,k-1);
-     
-
     }
 };
