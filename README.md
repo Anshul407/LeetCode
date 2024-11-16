@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2778-frequency-tracker](https://github.com/Anshul407/LeetCode/tree/master/2778-frequency-tracker) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Anshul407/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anshul407/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Anshul407/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Anshul407/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Two Pointers
 |  |
 | ------- |
