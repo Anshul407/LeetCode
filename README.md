@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Anshul407/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Anshul407/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anshul407/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Anshul407/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anshul407/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
