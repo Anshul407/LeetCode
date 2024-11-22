@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Anshul407/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Anshul407/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/Anshul407/LeetCode/tree/master/0284-peeking-iterator) |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anshul407/LeetCode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Design
@@ -624,4 +630,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
