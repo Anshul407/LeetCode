@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anshul407/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/Anshul407/LeetCode/tree/master/0284-peeking-iterator) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anshul407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -650,5 +654,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anshul407/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
