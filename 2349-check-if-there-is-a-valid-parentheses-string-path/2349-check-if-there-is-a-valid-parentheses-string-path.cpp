@@ -1,24 +1,21 @@
 class Solution {
 public:
-    bool ff(vector<vector<vector<int>>> &dp, int i, int j, int n, int m, int s, vector<vector<char>> &a)
-    {
-        if(i == n || j == m || s < 0) return false;
-        if(i == n - 1 && j == m - 1) 
-        {
-            int sum = (a[i][j] == '(' ? s + 1 : s - 1);
-            return (sum == 0);
+    int solve(vector<vector<char>>& g,int i,int j,int op, vector<vector<vector<int>>>&dp){
+        if(op<0||i>=g.size()||j>=g[0].size()||g[i][j]=='c')return 0;
+        if(i==g.size()-1&&j==g[0].size()-1){
+            if(g[i][j]=='(')return 0;
+            return op==1;
         }
-        if(dp[i][j][s] != -1) return dp[i][j][s];
-        // Go Down
-        if(ff(dp, i + 1, j, n, m, ((a[i][j] == '(') ? s + 1 : s - 1), a)) return dp[i][j][s] = true;
-        // Go Right
-        if(ff(dp, i, j + 1, n, m, ((a[i][j] == '(') ? s + 1 : s - 1), a)) return dp[i][j][s] = true;
-        return dp[i][j][s] = false;
+        if(dp[i][j][op]!=-1)return dp[i][j][op];
+        
+        int op1=solve(g,i+1,j,g[i][j]=='('?op+1:op-1,dp);
+        if(op1)return dp[i][j][op+1]=1;
+        int op2=solve(g,i,j+1,g[i][j]=='('?op+1:op-1,dp);
+        if(op2)return dp[i][j][op]=1;
+        return dp[i][j][op]= op1||op2;
     }
-    bool hasValidPath(vector<vector<char>>& a) 
-    {
-        int n = a.size(), m = a[0].size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>> (m, vector<int> (n + m + 2, -1)));
-        return ff(dp, 0, 0, n, m, 0, a);
+    bool hasValidPath(vector<vector<char>>& grid) {
+        vector<vector<vector<int>>>dp(grid.size(), vector<vector<int>>(grid[0].size(), vector<int>(((grid.size() + grid[0].size())+ 2), -1)));
+        return solve(grid,0,0,0,dp);
     }
 };
