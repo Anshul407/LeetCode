@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Interactive
