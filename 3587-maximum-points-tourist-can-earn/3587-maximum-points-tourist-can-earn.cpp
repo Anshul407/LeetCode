@@ -19,8 +19,6 @@ public:
         memset(dp,-1,sizeof(dp));
         int ans=0;
         for(int i=0;i<n;i++){
-
-        
         ans=max(ans, solve(i,0,n,k,stayScore,travelScore));}
         return ans;
     }
