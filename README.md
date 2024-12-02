@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3561-remove-methods-from-project](https://github.com/Anshul407/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Hash Table
