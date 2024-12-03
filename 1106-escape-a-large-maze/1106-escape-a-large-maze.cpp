@@ -14,7 +14,6 @@ public:
         int op3=solve(i,j+1,s,t,mp);
         if(op3)return op3;
         int op4=solve(i,j-1,s,t,mp);
-        
         return op1||op2||op3||op4;
     }
     bool isEscapePossible(vector<vector<int>>& blocked, vector<int>& source, vector<int>& target) {
