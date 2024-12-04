@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshul407/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
 ## Bit Manipulation
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/Anshul407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anshul407/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshul407/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
