@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Anshul407/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 ## Bitmask
 |  |
 | ------- |
