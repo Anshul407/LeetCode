@@ -3,7 +3,6 @@ public:
 int dp[2001];
     int dp2[2001][2001];
     int pal(string &ss,int i,int j){
-        
         while(i<j){
             if(ss[i]!=ss[j])return dp2[i][j]=0;
             i++;
