@@ -1,6 +1,6 @@
 class Solution {
 public:
-int dp[2001];
+    int dp[2001];
     int dp2[2001][2001];
     int pal(string &ss,int i,int j){
         while(i<j){
