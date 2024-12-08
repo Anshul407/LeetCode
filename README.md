@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Anshul407/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Anshul407/LeetCode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/Anshul407/LeetCode/tree/master/0565-array-nesting) |
+| [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/Anshul407/LeetCode/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Anshul407/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anshul407/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
