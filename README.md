@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anshul407/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anshul407/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Anshul407/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anshul407/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anshul407/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
