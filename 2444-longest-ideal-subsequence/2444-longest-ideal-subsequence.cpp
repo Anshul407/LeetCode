@@ -1,20 +1,25 @@
 class Solution {
 public:
-    int longestIdealString(string s, int k) {
-        vector<int>dp(26,0);
-        int ans=0;
-        for(int i=0;i<s.length();i++){
-            int indx=s[i]-'a';
-            int rightrange=min(25,indx+k);
-            int leftrange=max(0,indx-k);
-            int maxi=0;
-            for(int j=leftrange;j<=rightrange;j++){
-                maxi=max(maxi,dp[j]);
-            }
-            dp[indx]=max(dp[indx],maxi+1);
-            ans=max(ans,dp[indx]);
-        }
+    int solve(string &s, int i, int k, int p, vector<vector<int>> &dp) {
+        if (i >= s.size()) return 0;
         
-        return ans;
+        int prevIndex = (p == -1 ? 26 : s[p] - 'a');
+        if (dp[i][prevIndex] != -1) return dp[i][prevIndex];
+
+        // Include current character if valid
+        int op1 = 0, op2 = 0;
+        if (p == -1 || abs(s[p] - s[i]) <= k)
+            op1 = 1 + solve(s, i + 1, k, i, dp);
+
+        // Skip current character
+        op2 = solve(s, i + 1, k, p, dp);
+
+        return dp[i][prevIndex] = max(op1, op2);
+    }
+
+    int longestIdealString(string s, int k) {
+        int n = s.size();
+        vector<vector<int>> dp(n, vector<int>(27, -1));
+        return solve(s, 0, k, -1, dp);
     }
 };
