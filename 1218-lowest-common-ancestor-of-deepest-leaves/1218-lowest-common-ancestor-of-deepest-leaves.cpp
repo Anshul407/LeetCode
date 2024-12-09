@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-     map<TreeNode*,TreeNode*>mp;
     int f(TreeNode*r){
         if(!r)return 0;
         return 1+max(f(r->left),f(r->right));
@@ -21,10 +20,7 @@ public:
         if(h==1){
             return root;
         }
-        if(root->left)mp[root->left]=root;
-        if(root->right)mp[root->right]=root;
         auto l= solve(root->left,h-1);
-        
         auto r=solve(root->right,h-1);
         if(l&&r)return root;
         if(l)return l;
@@ -32,8 +28,6 @@ public:
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
         int h=f(root);
-        
-
         return solve(root,h);
     }
 };
