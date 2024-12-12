@@ -770,4 +770,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Anshul407/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anshul407/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
