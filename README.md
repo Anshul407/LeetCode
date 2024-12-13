@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Anshul407/LeetCode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anshul407/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Anshul407/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Anshul407/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Anshul407/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Anshul407/LeetCode/tree/master/0319-bulb-switcher) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Anshul407/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Anshul407/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
