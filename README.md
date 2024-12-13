@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Anshul407/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Anshul407/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Anshul407/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/Anshul407/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Anshul407/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Anshul407/LeetCode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/Anshul407/LeetCode/tree/master/1135-customers-who-bought-all-products) |
