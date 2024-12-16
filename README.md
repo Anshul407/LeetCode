@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Anshul407/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshul407/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anshul407/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
