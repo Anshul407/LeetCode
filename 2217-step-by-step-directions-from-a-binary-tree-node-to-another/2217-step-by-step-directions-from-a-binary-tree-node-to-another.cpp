@@ -30,7 +30,6 @@ public:
     bool solve(int i,int j,vector<int>&vis,string &a){
         if(i==j)return 1;
         vis[i]=1;
-        
         for(auto v:mp[i]){
             if(!vis[v.first]){
                 a.push_back(v.second);
