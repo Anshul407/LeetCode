@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshul407/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshul407/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Anshul407/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshul407/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
