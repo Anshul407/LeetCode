@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Anshul407/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anshul407/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anshul407/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anshul407/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0838-design-linked-list) |
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
+| [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2778-frequency-tracker](https://github.com/Anshul407/LeetCode/tree/master/2778-frequency-tracker) |
 ## Iterator
 |  |
