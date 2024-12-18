@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Anshul407/LeetCode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Anshul407/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
 |  |
 | ------- |
