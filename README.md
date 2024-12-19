@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Anshul407/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Anshul407/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Anshul407/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/Anshul407/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Anshul407/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anshul407/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anshul407/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
