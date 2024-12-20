@@ -41,7 +41,7 @@ public:
         for(auto v:mp){
             auto nodeocc=v.second;
             if(nodeocc==1)return -1;
-            if(nodeocc%3==0){
+            if(nodeocc%3==0){   ///agr 3 se divisible hai to directly mai 3,3 ka piar le lunga so total op=occ/3
                 ans+=nodeocc/3;
             }
             else{
@@ -49,6 +49,7 @@ public:
                ans++;
             }
             //ruk jaaa
+            //hogya
 
         }
         return ans; //main kuch improvis e kru??ans;
