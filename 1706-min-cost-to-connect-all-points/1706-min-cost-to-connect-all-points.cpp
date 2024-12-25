@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int>rank,parent;
-    void DSU(int n){
+    void abc(int n){
         rank.resize(n+1,0);
         parent.resize(n+1);
         for(int i=0;i<=n;i++)parent[i]=i;
@@ -29,7 +29,7 @@ public:
         }
     }
     int minCostConnectPoints(vector<vector<int>>& points) {
-        DSU(points.size());
+        abc(points.size());
         vector<vector<int>>v;
         for(int i=0;i<points.size();i++){
             for(int j=i+1;j<points.size();j++){
