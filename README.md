@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Anshul407/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0832-binary-tree-pruning](https://github.com/Anshul407/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Anshul407/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0922-possible-bipartition](https://github.com/Anshul407/LeetCode/tree/master/0922-possible-bipartition) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-largest-plus-sign](https://github.com/Anshul407/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0792-binary-search](https://github.com/Anshul407/LeetCode/tree/master/0792-binary-search) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0852-friends-of-appropriate-ages](https://github.com/Anshul407/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anshul407/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Anshul407/LeetCode/tree/master/0812-rotate-string) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Anshul407/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
@@ -852,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anshul407/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshul407/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/Anshul407/LeetCode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/Anshul407/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
