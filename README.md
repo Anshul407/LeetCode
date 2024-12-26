@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anshul407/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Anshul407/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Sorting
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anshul407/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3189-find-champion-ii](https://github.com/Anshul407/LeetCode/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/Anshul407/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Shortest Path
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/Anshul407/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
