@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Anshul407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/Anshul407/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Anshul407/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1073-number-of-enclaves](https://github.com/Anshul407/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1223-graph-connectivity-with-threshold](https://github.com/Anshul407/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
@@ -928,5 +931,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
