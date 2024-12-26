@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    vector<int>cost;
     vector<int> parent;
     int find(int x) {
         if(parent[x] == x)
@@ -8,52 +8,37 @@ public:
         
         return parent[x] = find(parent[x]);
     }
-    void Union(int x, int y) {
+    void unionbyrank(int x, int y) {
         parent[y] = x;
     }
-
     vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
-        
+        cost.resize(n);
         parent.resize(n);
-        vector<int> cost(n);  //Store "And operation" cost of each component
-	    
-	    for(int i = 0; i<n; i++) {
-	        parent[i] = i;
-            cost[i]   = -1;
-        }
-        
-        for (auto &edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            int w = edge[2];
-            
-            int parent_u = find(u);
-            int parent_v = find(v);
-            
-
-            if (parent_u != parent_v) {
-                cost[parent_u] &= cost[parent_v];
-                Union(parent_u, parent_v);
+        for(int i=0;i<n;i++){parent[i]=i;cost[i]=-1;}
+        for(auto v:edges){
+            int u=v[0];
+            int x=v[1];
+            int w=v[2];
+            int p1=find(u);
+            int p2=find(x);
+            if(p1!=p2){
+            unionbyrank(p1,p2);
+            cost[p1]&=cost[p2];
             }
+            cost[p1]&=w;
 
-            cost[parent_u] &= w;
         }
-        
-        vector<int> res;
-        for (auto &q : query) {
-            int s = q[0];
-            int t = q[1];
-            
-            int p1 = find(s);
-            int p2 = find(t);
-            
-            if (s == t)
-                res.push_back(0);
-            else if (p1 != p2)
-                res.push_back(-1);
-            else
-                res.push_back(cost[p1]);
+        vector<int>ans;
+        for(auto i:query){
+            int u=i[0];
+            int v=i[1];
+            if(u==v)ans.push_back(0);
+            else if(find(u)!=find(v))ans.push_back(-1);
+            else {
+                int p=find(u);
+                ans.push_back(cost[p]);
+            }
         }
-        return res;
+        return ans;
     }
 };
