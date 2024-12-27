@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Anshul407/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/Anshul407/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Anshul407/LeetCode/tree/master/0972-knight-dialer) |
+| [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1332-count-vowels-permutation](https://github.com/Anshul407/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
