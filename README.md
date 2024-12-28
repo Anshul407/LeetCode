@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anshul407/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Anshul407/LeetCode/tree/master/0306-additive-number) |
+| [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anshul407/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Anshul407/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Anshul407/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anshul407/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Anshul407/LeetCode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
