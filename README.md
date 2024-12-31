@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1025-minimum-cost-for-tickets](https://github.com/Anshul407/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/Anshul407/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Anshul407/LeetCode/tree/master/0972-knight-dialer) |
+| [1025-minimum-cost-for-tickets](https://github.com/Anshul407/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
