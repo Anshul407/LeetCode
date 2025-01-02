@@ -11,10 +11,11 @@
  */
 class Solution {
 public:
+    unordered_map<TreeNode*,int>mp;
     int f(TreeNode*root){
         if(!root)return 0;
-
-        return 1+max(f(root->left),f(root->right));
+        if(mp.find(root)!=mp.end())return mp[root];
+        return mp[root]= 1+max(f(root->left),f(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(!root)return 0;
