@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anshul407/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Anshul407/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshul407/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Anshul407/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Anshul407/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2580-circular-sentence](https://github.com/Anshul407/LeetCode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Anshul407/LeetCode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
