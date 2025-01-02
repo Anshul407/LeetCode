@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Anshul407/LeetCode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/Anshul407/LeetCode/tree/master/0565-array-nesting) |
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshul407/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul407/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
