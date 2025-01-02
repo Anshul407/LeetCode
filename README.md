@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anshul407/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anshul407/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
