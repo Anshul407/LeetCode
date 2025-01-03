@@ -12,21 +12,9 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int t) {
-        if(root==NULL){
-           
-            return 0;
-        }
+        if(!root)return 0;
+        if(!root->left&&!root->right)return t-root->val==0;
 
-        if(!root->left&&!root->right){
-            t-=root->val;
-            if(t==0)return 1;
-
-            return 0;
-        }
-
-        bool leftkapart=hasPathSum(root->left,t-root->val);
-        bool rightkapart=hasPathSum(root->right,t-root->val);
-
-        return leftkapart||rightkapart;
+        return hasPathSum(root->left,t-root->val)||hasPathSum(root->right,t-root->val);
     }
 };
