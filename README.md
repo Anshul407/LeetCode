@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anshul407/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2444-longest-ideal-subsequence](https://github.com/Anshul407/LeetCode/tree/master/2444-longest-ideal-subsequence) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2444-longest-ideal-subsequence](https://github.com/Anshul407/LeetCode/tree/master/2444-longest-ideal-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
