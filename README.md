@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshul407/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/Anshul407/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Anshul407/LeetCode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
