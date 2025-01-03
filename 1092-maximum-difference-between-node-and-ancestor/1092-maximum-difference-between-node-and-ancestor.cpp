@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
-    int f(TreeNode*root,int cur){
-        if(!root)return 0;
+    int solve(TreeNode*root,int maxi,int mini){
+        if(!root)return abs(mini-maxi);
+        int op1=solve(root->left,max(maxi,root->val),min(mini,root->val));
+        int op2=solve(root->right,max(maxi,root->val),min(mini,root->val));
+        
 
-        int op1=abs(cur-root->val);
-        int op2=f(root->left,cur);
-        int op3=f(root->right,cur);
-        return max({op1,op2,op3});
+        return max(op1,op2);
+        
     }
     int maxAncestorDiff(TreeNode* root) {
         if(!root)return 0;
-
-        int cur=root->val;
-        int s=f(root,cur);
-        int op1=maxAncestorDiff(root->left);
-        int op2=maxAncestorDiff(root->right);
-        return max({s,op1,op2});
+        int ans=0;
+        return solve(root,root->val,root->val);
+        
     }
 };
