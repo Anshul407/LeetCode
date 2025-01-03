@@ -11,24 +11,28 @@
  */
 class Solution {
 public:
-    bool checkone(TreeNode*root){
+    int s(TreeNode*root){
         if(!root)return 0;
         if(root->val==1)return 1;
-        return checkone(root->left)||checkone(root->right);
+        if(s(root->left))return 1;
+        if(s(root->right))return 1;
+        return 0;
     }
     TreeNode* pruneTree(TreeNode* root) {
-        if(root==NULL)return NULL;
-        if(!checkone(root->left)){
-            root->left=NULL;
-        }
-        if(!checkone(root->right)){
-            root->right=NULL;
-        }
-        pruneTree(root->left);
-        pruneTree(root->right);
-        if(root->left==NULL&&root->right==NULL&&root->val==0)return NULL;
+        if(!root)return NULL;
 
+       
+        int f=root->val==1;
+        if(!f){
+            f=s(root->left);
+            if(!f){
+                f=s(root->right);
+            }
+
+        }
+        root->left=pruneTree(root->left);
+        root->right=pruneTree(root->right);
+        if(!f)return NULL;
         return root;
-
     }
 };
