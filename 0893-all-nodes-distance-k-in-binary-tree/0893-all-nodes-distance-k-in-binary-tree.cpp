@@ -9,55 +9,51 @@
  */
 class Solution {
 public:
-    
-    void parent(TreeNode*root,map<TreeNode*,TreeNode*>&mp){
-        if(root==NULL)return ;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            auto it=q.front();
-            q.pop();
-            if(it->left){
-                mp[it->left]=it;
-                q.push(it->left);
-            }
-            if(it->right){
-                mp[it->right]=it;
-                q.push(it->right);
-            }
+    map<int,vector<int>>mp;
+    int r;
+    void f(TreeNode*root){
+        if(!root)return ;
+
+        if(root->left){
+            mp[root->left->val].push_back(root->val);
+            mp[root->val].push_back(root->left->val);
         }
-        return ;
+        if(root->right){
+            mp[root->right->val].push_back(root->val);
+            mp[root->val].push_back(root->right->val);
+        }
+        f(root->left);
+        f(root->right);
     }
-    void solve(TreeNode*curr,int k,map<TreeNode*,TreeNode*>mp,vector<int>&ans,map<TreeNode*,bool>&vis){
-        if(curr==NULL)return ;
-
-        if(k==0){
-            ans.push_back(curr->val);
-            return ;
+    vector<int> bfs(int s,int h){
+        queue<pair<int,int>>q;
+        q.push({s,0});
+        vector<int>ans;
+        unordered_set<int>st;
+        st.insert(s);
+        while(!q.empty()){
+            auto x=q.front();
+            auto node=x.first;
+            auto d=x.second;
+            q.pop();
+            if(d==h){
+                ans.push_back(node);
+                continue;
+            }
+            for(auto v:mp[node]){
+                if(st.find(v)==st.end()){
+                    st.insert(v);
+                    q.push({v,d+1});
+                }
+            }
         }
-        if(!vis[curr->left]){
-            vis[curr->left]=1;
-        solve(curr->left,k-1,mp,ans,vis);}
-        if(!vis[curr->right]){
-            vis[curr->right]=1;
-        solve(curr->right,k-1,mp,ans,vis);}
-        if(mp.count(curr)&&!vis[mp[curr]]){
-            vis[mp[curr]]=1;
-            solve(mp[curr],k-1,mp,ans,vis);
-        }
-
+        return ans;
 
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        map<TreeNode*,TreeNode*>mp;
-        parent(root,mp);
-        vector<int>ans;
-        map<TreeNode*,bool>vis;
-        if(root==NULL)return ans;
-        vis[target]=1;
-        solve(target,k,mp,ans,vis);
-        
-        // if(ans.size())ans.erase(ans.begin());
-        return ans;
+        f(root);
+        r=root->val;
+        return bfs(target->val,k);
+
     }
 };
