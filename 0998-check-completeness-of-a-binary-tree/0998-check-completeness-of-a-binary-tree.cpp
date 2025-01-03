@@ -11,19 +11,23 @@
  */
 class Solution {
 public:
-    int check(TreeNode*root){
-        if(!root)return 0;
-        int op1=check(root->left);
-        int op2=check(root->right);
-        return 1+op1+op2;
-    }
-    bool solve(TreeNode*root,int i,int tot){
-        if(!root)return 1;
-        if(i>tot)return 0;
-        return solve(root->left,2*i,tot)&&solve(root->right,2*i+1,tot);
-    }
+   
     bool isCompleteTree(TreeNode* root) {
-        int totnodes=check(root);
-        return solve(root,1,totnodes);
+        
+        int f=0;
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            auto node=q.front();
+            q.pop();
+            if(node==NULL)f=1;
+
+            else {
+                if(f)return 0;
+                q.push(node->left);
+                q.push(node->right);
+            }
+        }
+        return 1;
     }
 };
