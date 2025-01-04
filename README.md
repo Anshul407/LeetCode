@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anshul407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Anshul407/LeetCode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anshul407/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anshul407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/Anshul407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anshul407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anshul407/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshul407/LeetCode/tree/master/0684-redundant-connection) |
