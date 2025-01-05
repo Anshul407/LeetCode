@@ -1,22 +1,19 @@
 class Solution {
 public:
-    int solve(string s,string t,int i,int j,vector<vector<int>>&dp){
-        if(j>=t.length())return 1;
-        if(i>=s.length())return 0;
-
-
-        int tk=0,ntk=0;
-        
-        if(s[i]==t[j]){
-            tk=solve(s,t,i+1,j+1,dp);
-        }
-        ntk=solve(s,t,i+1,j,dp);
-
-        return tk+ntk;
-
-    }
     int numDistinct(string s, string t) {
-        vector<vector<int>>dp(s.length(),vector<int>(t.length(),-1));
-        return solve(s,t,0,0,dp);
+        vector<vector<long long>>dp(s.size()+1,vector<long long>(t.size()+1,0));
+        for(int i=0;i<s.size();i++){
+            dp[i][0]=1;
+        }
+       
+        for(int i=1;i<=s.size();i++){
+            for(int j=1;j<=t.size();j++){
+                if(s[i-1]==t[j-1])
+                dp[i][j]=dp[i][j]+dp[i-1][j-1];
+                dp[i][j]=dp[i][j]+dp[i-1][j];
+            }
+        }
+        return dp[s.size()][t.size()];
     }
 };
+
