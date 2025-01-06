@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Anshul407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshul407/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Anshul407/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anshul407/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anshul407/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Anshul407/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Anshul407/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Anshul407/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Anshul407/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
