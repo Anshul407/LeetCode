@@ -1,8 +1,9 @@
 class Solution {
 public:
-    map<int,int>mp;
+    vector<vector<int>>dp;
     int solve(vector<int>&nums,int p,int state){
         if(state==(1<<nums.size())-1)return 1;
+        if(dp[p+1][state]!=-1)return dp[p+1][state];
         int ans=0;
         for(int i=0;i<nums.size();i++){
             if(state&(1<<i))continue;
@@ -20,10 +21,11 @@ public:
                 }
             }
         }
-        return ans;
+        return dp[p+1][state]=ans;
     }
     int numSquarefulPerms(vector<int>& nums) {
         sort(nums.begin(),nums.end());
+        dp.resize(nums.size()+2,vector<int>(1<<nums.size(),-1));
         return solve(nums,-1,0);
     }
 };
