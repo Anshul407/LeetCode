@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshul407/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/Anshul407/LeetCode/tree/master/1660-thousand-separator) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshul407/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshul407/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Anshul407/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Anshul407/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Anshul407/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Anshul407/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
