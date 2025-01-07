@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Anshul407/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/Anshul407/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Anshul407/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Greedy
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Anshul407/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anshul407/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Anshul407/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Anshul407/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 ## Recursion
 |  |
 | ------- |
