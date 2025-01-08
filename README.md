@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anshul407/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshul407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Anshul407/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Anshul407/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Anshul407/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anshul407/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Anshul407/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Anshul407/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anshul407/LeetCode/tree/master/0213-house-robber-ii) |
