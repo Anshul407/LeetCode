@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int maxProduct(vector<int>& nums) {
         int ans=INT_MIN;
         int cur=1;
