@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshul407/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Anshul407/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshul407/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anshul407/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
@@ -874,12 +876,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshul407/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Anshul407/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -909,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anshul407/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1091,4 +1096,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anshul407/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
