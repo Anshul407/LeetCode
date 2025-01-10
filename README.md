@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/Anshul407/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anshul407/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1343-dice-roll-simulation](https://github.com/Anshul407/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1332-count-vowels-permutation](https://github.com/Anshul407/LeetCode/tree/master/1332-count-vowels-permutation) |
+| [1343-dice-roll-simulation](https://github.com/Anshul407/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
