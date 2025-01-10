@@ -1,5 +1,8 @@
 class Solution {
 public:
+    static bool cmp(pair<char,int>&p,pair<char,int>&q){
+        return p.second>q.second;
+    }
     string frequencySort(string s) {
         map<char,int>mp;
         for(auto i:s){
@@ -7,19 +10,15 @@ public:
         }
         vector<pair<char,int>>v;
         for(auto i:mp){
-            v.push_back({i.second,i.first});
+            v.push_back({i.first,i.second});
         }
-        sort(v.begin(),v.end());
-        reverse(v.begin(),v.end());
+        sort(v.begin(),v.end(),cmp);
         string ans="";
         for(auto i:v){
-            int freq=i.first;
-            while(freq){
-                ans+=i.second;
-                freq--;
+            for(int x=0;x<i.second;x++){
+                ans+=i.first;
             }
         }
         return ans;
-        
     }
 };
