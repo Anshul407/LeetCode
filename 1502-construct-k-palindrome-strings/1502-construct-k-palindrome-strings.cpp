@@ -9,7 +9,7 @@ public:
             if(i.second%2!=0){
                 k--;
             }
-            if(k<0)return 0;
+            if(k<0)return 0;//agar odd characters x hai to palindrome v x banana hoga
         }
         return 1;
     }
