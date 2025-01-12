@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anshul407/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshul407/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Anshul407/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshul407/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshul407/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
