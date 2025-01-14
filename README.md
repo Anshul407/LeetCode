@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Anshul407/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Anshul407/LeetCode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Anshul407/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anshul407/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Anshul407/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/Anshul407/LeetCode/tree/master/0312-burst-balloons) |
+| [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Anshul407/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
