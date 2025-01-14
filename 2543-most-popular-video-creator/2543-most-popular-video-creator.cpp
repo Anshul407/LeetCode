@@ -9,7 +9,6 @@ public:
         for(auto i:mp){
             maxi=max(maxi,i.second);
         }
-        
         map<string,pair<int,string>>mp2;
         for(auto i:mp){
             if(i.second==maxi){
@@ -25,12 +24,10 @@ public:
                 }
             }
         }
-
         vector<vector<string>>ans;
         for(auto i:mp2){
             ans.push_back({i.first,i.second.second});
         }
-        return ans;
-       
+        return ans;  
     }
 };
