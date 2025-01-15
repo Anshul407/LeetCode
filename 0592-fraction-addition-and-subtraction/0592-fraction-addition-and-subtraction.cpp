@@ -4,9 +4,8 @@ public:
         vector<int> n, d;
         int flag=0;
         int i=0;
-        while(i<exp.size()) {
+        for(int i=0;i<exp.size();i++) {
             if(exp[i]=='-'||exp[i]=='+'||exp[i]=='/'){
-                i++;
                continue;
             }
             else{
@@ -19,8 +18,7 @@ public:
                 i=j+1;
                 while(j<exp.size()&&exp[j]!='+'&&exp[j]!='-')j++;
                 d.push_back(stoi(exp.substr(i,j-i)));
-                
-                i=j;
+                i=j-1;
             }
 
         }
