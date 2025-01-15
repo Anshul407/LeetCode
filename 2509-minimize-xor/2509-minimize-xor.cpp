@@ -3,7 +3,7 @@ public:
     
     int minimizeXor(int num1, int num2) {
         string a,b;
-        bitset<32>binary(num1);
+        bitset<31>binary(num1);
         a=binary.to_string();
         cout<<a;
         int tot=__builtin_popcount(num2);
