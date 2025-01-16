@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/Anshul407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anshul407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Anshul407/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Anshul407/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
