@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anshul407/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anshul407/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2543-most-popular-video-creator](https://github.com/Anshul407/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2561-number-of-distinct-averages](https://github.com/Anshul407/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Anshul407/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2509-minimize-xor](https://github.com/Anshul407/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anshul407/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshul407/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Anshul407/LeetCode/tree/master/0319-bulb-switcher) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Anshul407/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Combinatorics
 |  |
 | ------- |
