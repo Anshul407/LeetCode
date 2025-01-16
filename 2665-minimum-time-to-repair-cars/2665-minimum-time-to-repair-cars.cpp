@@ -4,7 +4,7 @@ public:
         for(int i=0;i<ranks.size();i++){
             if(cur>=ranks[i]){
             long long x=cur/ranks[i];
-            x=static_cast<long long>(sqrt(x));
+            x=(sqrt(x));
             n-=x;}
             if(n<=0)return 1;
         }
