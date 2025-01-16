@@ -12,7 +12,6 @@ public:
         int ans=-1;
         while(i<=j){
             auto mid=(i+j)/2;
-
             if(canpossible(quantities,mid,n)){
                 ans=mid;
                 j=mid-1;
