@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1447-jump-game-iv](https://github.com/Anshul407/LeetCode/tree/master/1447-jump-game-iv) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1447-jump-game-iv](https://github.com/Anshul407/LeetCode/tree/master/1447-jump-game-iv) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshul407/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Anshul407/LeetCode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Anshul407/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anshul407/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Anshul407/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/Anshul407/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Anshul407/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -888,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anshul407/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
