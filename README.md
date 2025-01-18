@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Anshul407/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2122-count-special-quadruplets](https://github.com/Anshul407/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anshul407/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshul407/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Anshul407/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Anshul407/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anshul407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anshul407/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
