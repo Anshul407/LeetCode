@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Anshul407/LeetCode/tree/master/0740-delete-and-earn) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/Anshul407/LeetCode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Anshul407/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/Anshul407/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0792-binary-search](https://github.com/Anshul407/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Anshul407/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/Anshul407/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/Anshul407/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0806-domino-and-tromino-tiling](https://github.com/Anshul407/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
