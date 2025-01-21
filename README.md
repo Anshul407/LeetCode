@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anshul407/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/Anshul407/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anshul407/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/Anshul407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anshul407/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anshul407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anshul407/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
