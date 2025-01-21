@@ -2,7 +2,6 @@ class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
         vector<long long>a(grid[0].size()),b(grid[0].size());
-
         a[0]=grid[0][0];
         b[0]=grid[1][0];
         for(int i=1;i<grid[0].size();i++){
