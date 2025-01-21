@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Anshul407/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2122-count-special-quadruplets](https://github.com/Anshul407/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
+| [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anshul407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul407/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Anshul407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
