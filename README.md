@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Anshul407/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Anshul407/LeetCode/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/Anshul407/LeetCode/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/Anshul407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshul407/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Anshul407/LeetCode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Anshul407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshul407/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Anshul407/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/Anshul407/LeetCode/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/Anshul407/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshul407/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0838-design-linked-list) |
