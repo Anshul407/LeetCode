@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anshul407/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshul407/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Anshul407/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anshul407/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Anshul407/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/Anshul407/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2561-number-of-distinct-averages](https://github.com/Anshul407/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anshul407/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshul407/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Anshul407/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anshul407/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2543-most-popular-video-creator](https://github.com/Anshul407/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshul407/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
