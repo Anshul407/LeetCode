@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Anshul407/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1731-even-odd-tree](https://github.com/Anshul407/LeetCode/tree/master/1731-even-odd-tree) |
+| [1876-map-of-highest-peak](https://github.com/Anshul407/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Anshul407/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Anshul407/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
+| [1876-map-of-highest-peak](https://github.com/Anshul407/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Anshul407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Anshul407/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
