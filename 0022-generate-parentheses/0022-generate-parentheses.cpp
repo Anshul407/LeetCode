@@ -5,7 +5,6 @@ public:
             ans.push_back(temp);
             return ;
         }
-
         if(op==cl&&op!=0){
             string cur=temp;
             cur+="(";
@@ -23,6 +22,7 @@ public:
             cur+=')';
             solve(op,cl-1,cur,ans);
         }
+        
     }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
