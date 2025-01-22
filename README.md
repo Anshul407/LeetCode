@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Anshul407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
 | [1876-map-of-highest-peak](https://github.com/Anshul407/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Anshul407/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshul407/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Anshul407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshul407/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1222,4 +1225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anshul407/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
