@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshul407/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Anshul407/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/Anshul407/LeetCode/tree/master/0306-additive-number) |
