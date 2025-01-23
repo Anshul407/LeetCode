@@ -9,7 +9,6 @@ public:
         long long p=0;
         if(dp[i]!=-1)return dp[i];
         for(int j=i;j<c.size();j++){
-            
             if(c[j]=='S')k++;
             if(j==c.size()-1&&k==2){
                 ans+=solve(c,j+1,1);
@@ -24,10 +23,8 @@ public:
                 break;
             }
             if(k==2){
-                p++;
-               
-            }
-            
+                p++;   
+            }    
         }
         return dp[i]= ans;
     }
