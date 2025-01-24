@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1106-escape-a-large-maze](https://github.com/Anshul407/LeetCode/tree/master/1106-escape-a-large-maze) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Anshul407/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/Anshul407/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Anshul407/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1332-count-vowels-permutation](https://github.com/Anshul407/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1343-dice-roll-simulation](https://github.com/Anshul407/LeetCode/tree/master/1343-dice-roll-simulation) |
