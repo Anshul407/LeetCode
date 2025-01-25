@@ -37,8 +37,6 @@ public:
         }
         vector<int>x=nums;
         unordered_map<int, priority_queue<int>>mp;
-
-
         for(int i=0;i<nums.size();i++){
            mp[findp(i)].push(nums[i]);
         }
