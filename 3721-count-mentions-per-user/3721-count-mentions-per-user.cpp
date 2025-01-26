@@ -6,15 +6,10 @@ public:
         if(x!=y)return x<y;
         else{
             return a[0]=="OFFLINE";
-        }
-        
-
-      
-        
+        }    
     }
     vector<int> countMentions(int numberOfUsers, vector<vector<string>>& events) {
         sort(events.begin(),events.end(),cmp);
-      
         vector<int>mp(numberOfUsers,0);
         map<int,int>offline;
         int all=0;
@@ -46,8 +41,7 @@ public:
                 }
             }else {
                 offline[stoi(i[2])]=stoi(i[1])+60;
-            }
-            
+            }   
         }
         for(auto &i:mp)i+=all;
         return mp;
