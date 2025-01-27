@@ -1,25 +1,25 @@
 class Solution {
 public:
-    void solve(vector<int>nums,vector<vector<int>>&ans,int index){
-        if(index==nums.size()-1){
-            ans.push_back(nums);
+    vector<vector<int>>ans;
+    unordered_set<int>st;
+    void solve(vector<int>&nums,vector<int>&temp){
+        if(temp.size()==nums.size()){
+            ans.push_back(temp);
             return ;
         }
-
-        for(int i=index;i<nums.size();i++){
-            swap(nums[i],nums[index]);
-            solve(nums,ans,index+1);
-            swap(nums[i],nums[index]);
-
+        for(int i=0;i<nums.size();i++){
+            if(st.find(i)!=st.end())continue;
+            st.insert(i);
+            temp.push_back(nums[i]);
+            solve(nums,temp);
+            temp.pop_back();
+            st.erase(i);
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
-       
-
-       vector<vector<int>>ans;
        int index=0;
-       solve(nums,ans,index);
+       vector<int>temp;
+       solve(nums,temp);
        return ans;
 
     }
