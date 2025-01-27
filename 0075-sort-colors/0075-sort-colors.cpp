@@ -9,7 +9,6 @@ public:
             }else if(nums[o]==1)o++;
             else{
                 swap(nums[o],nums[t]);
-                o++;
                 t--;
             }
         }
