@@ -1,22 +1,19 @@
 class Solution {
 public:
-void mp(vector<int>nums,vector<int>op,vector<vector<int>>&v,int index){
-    if(index>=nums.size()){
-        v.push_back(op);
-        return ;
+    void solve(vector<int>&nums,vector<int>&temp,vector<vector<int>>&ans,int i){
+        if(i>=nums.size()){
+            ans.push_back(temp);
+            return ;
+        }
+        solve(nums,temp,ans,i+1);
+        temp.push_back(nums[i]);
+        solve(nums,temp,ans,i+1);
+        temp.pop_back();
     }
-
-    //excluding the elem
-    mp(nums,op,v,index+1);
-    //including the element
-    op.push_back(nums[index]);
-    mp(nums,op,v,index+1);
-    
-}
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>op;
-       vector<vector<int>>ans;
-        mp(nums,op,ans,0);
+        vector<int>temp;
+        vector<vector<int>>ans;
+        solve(nums,temp,ans,0);
         return ans;
     }
 };
