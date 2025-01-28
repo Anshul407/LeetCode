@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Anshul407/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/Anshul407/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anshul407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1223-graph-connectivity-with-threshold](https://github.com/Anshul407/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
