@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anshul407/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Anshul407/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1080-camelcase-matching](https://github.com/Anshul407/LeetCode/tree/master/1080-camelcase-matching) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anshul407/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anshul407/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
