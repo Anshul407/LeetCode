@@ -1,26 +1,36 @@
 class Solution {
 public:
-    bool dfs(int i,map<int,vector<int>>&mp,int p,int a,int b,vector<int>&vis){
-        vis[i]=1;
-        for(auto v:mp[i]){
-            if(v==p)continue;
-            if(vis[v])return 1;
-            if(dfs(v,mp,i,a,b,vis))return 1;
+    vector<int>parent,rank;
+    void abc(int n){
+        parent.resize(n+1);
+        rank.resize(n+1,1);
+        for(int i=0;i<=n;i++)parent[i]=i;
+    }
+    int find(int cur){
+        if(parent[cur]==cur)return cur;
+        return parent[cur]=find(parent[cur]);
+    }
+    void unionbyrank(int u,int v){
+        int pu=find(u);
+        int pv=find(v);
+        if(pu==pv)return ;
+
+        if(rank[pu]<rank[pv]){
+            parent[pu]=pv;
+        }else{
+            parent[pv]=pu;
         }
-        return 0;
+        if(rank[pu]==rank[pv])rank[pu]++;
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        map<int,vector<int>>mp;
-        for(auto i:edges){
-            mp[i[0]].push_back(i[1]);
-            mp[i[1]].push_back(i[0]);
-            int u=i[0];
-            int v=i[1];
-            vector<int>vis(edges.size()+1,0);
-            if(dfs(u,mp,-1,u,v,vis)){
-                return {u,v};
-            }
-        }
-        return {};
+            abc(1001);
+            for(auto i:edges){
+                auto u=i[0];
+                auto v=i[1];
+                auto pu=find(u);
+                auto pv=find(v);
+                if(pu==pv)return {u,v};
+                unionbyrank(u,v);
+            }return {-1,-1};
     }
 };
