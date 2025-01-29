@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/Anshul407/LeetCode/tree/master/0436-find-right-interval) |
 | [0500-keyboard-row](https://github.com/Anshul407/LeetCode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Anshul407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/Anshul407/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Anshul407/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0503-next-greater-element-ii](https://github.com/Anshul407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Anshul407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
