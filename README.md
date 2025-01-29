@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Anshul407/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0952-word-subsets](https://github.com/Anshul407/LeetCode/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Anshul407/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anshul407/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anshul407/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
