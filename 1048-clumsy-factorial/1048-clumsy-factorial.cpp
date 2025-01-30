@@ -1,8 +1,8 @@
 class Solution {
 public:
     int clumsy(int n) {
-        stack<int>st;
         int ans=n;
+        int finans=0;
         int x=0;
         int f=0;
         for(int k=n-1;k>=1;k--){
@@ -12,8 +12,8 @@ public:
                 ans/=k;
             }else if(x==2){
                 if(k==1)f=1;
-                st.push(ans);
-                st.push(k);
+                finans+=ans;
+                finans+=k;
             }else {
                 ans=k;
                 ans*=-1;
@@ -23,12 +23,7 @@ public:
 
         }
         if(!f)
-        st.push(ans);
-        ans=0;
-        while(!st.empty()){
-            cout<<st.top();
-            ans+=st.top();
-            st.pop();
-        }return ans;
+        finans+=ans;
+        return finans;
     }
 };
