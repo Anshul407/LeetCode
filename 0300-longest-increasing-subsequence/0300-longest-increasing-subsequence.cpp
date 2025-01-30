@@ -1,17 +1,24 @@
 class Solution {
 public:
-    int dp[2501][2501];
-    int solve(vector<int>&nums,int i,int p){
-        if(i>=nums.size())return 0;
-        if(dp[i][p+1]!=-1)return dp[i][p+1];
-        int ans=0;
-        if(p==-1||nums[i]>nums[p]){
-            ans=1+solve(nums,i+1,i);
+    int solve(vector<int>&c,int num){
+        int i=0,j=c.size()-1;
+        while(i<=j){
+            int mid=(i+j)/2;
+            if(c[mid]==num)return mid;
+            if(c[mid]>num)j=mid-1;
+            else i=mid+1;
         }
-        return dp[i][p+1]=max(ans,solve(nums,i+1,p));
+        return i;
     }
     int lengthOfLIS(vector<int>& nums) {
-        memset(dp,-1,sizeof(dp));
-        return solve(nums,0,-1);
+        vector<int>cur;
+        for(auto i:nums){
+            if(cur.empty()||cur.back()<i){
+                cur.push_back(i);
+            }else {
+                int f=solve(cur,i);
+                cur[f]=i;
+            }
+        }return cur.size();
     }
 };
