@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anshul407/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Anshul407/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Anshul407/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1080-camelcase-matching](https://github.com/Anshul407/LeetCode/tree/master/1080-camelcase-matching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0838-design-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Anshul407/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
