@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anshul407/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1048-clumsy-factorial](https://github.com/Anshul407/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Anshul407/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Anshul407/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshul407/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Anshul407/LeetCode/tree/master/0909-stone-game) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
+| [1048-clumsy-factorial](https://github.com/Anshul407/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1223-graph-connectivity-with-threshold](https://github.com/Anshul407/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Anshul407/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anshul407/LeetCode/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Anshul407/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1048-clumsy-factorial](https://github.com/Anshul407/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshul407/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
