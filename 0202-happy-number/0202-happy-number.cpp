@@ -7,9 +7,17 @@ public:
         vis.insert(n);
         auto x=to_string(n);
         int p=0;
-        for(auto i:x){
-            auto k=i-'0';
-            p+=(k*k);
-        }return isHappy(p);
+        int i=0,j=x.size()-1;
+        
+        while(i<=j){
+            int a=x[i]-'0';
+            int b=x[j]-'0';
+            p+=(a*a);
+            if(i!=j)
+            p+=(b*b);
+            i++;
+            j--;   
+        }
+        return isHappy(p);
     }
 };
