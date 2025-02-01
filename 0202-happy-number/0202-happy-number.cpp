@@ -1,23 +1,21 @@
 class Solution {
 public:
-    unordered_set<int>vis;
+    int s(int cur){
+        int x=0;
+        while(cur>0){
+            int r=cur%10;
+            x+=(r*r);
+            cur/=10;
+        }return x;
+    }
     bool isHappy(int n) {
-        if(n==1)return 1;
-        if(vis.find(n)!=vis.end())return 0;
-        vis.insert(n);
-        auto x=to_string(n);
-        int p=0;
-        int i=0,j=x.size()-1;
-        
-        while(i<=j){
-            int a=x[i]-'0';
-            int b=x[j]-'0';
-            p+=(a*a);
-            if(i!=j)
-            p+=(b*b);
-            i++;
-            j--;   
-        }
-        return isHappy(p);
+        long long a=n,b=n;
+        while(true){
+            b=s(b);
+            b=s(b);
+            a=s(a);
+            if(a==1)return 1;
+            if(a==b)return 0;
+        }return 0;
     }
 };
