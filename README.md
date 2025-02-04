@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Anshul407/LeetCode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Anshul407/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Anshul407/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
