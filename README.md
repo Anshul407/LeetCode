@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anshul407/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshul407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshul407/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anshul407/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anshul407/LeetCode/tree/master/0169-majority-element) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshul407/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Anshul407/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Anshul407/LeetCode/tree/master/0268-missing-number) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshul407/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anshul407/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshul407/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0503-next-greater-element-ii](https://github.com/Anshul407/LeetCode/tree/master/0503-next-greater-element-ii) |
