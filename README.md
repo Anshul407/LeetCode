@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anshul407/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1010-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/1010-powerful-integers) |
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0909-stone-game](https://github.com/Anshul407/LeetCode/tree/master/0909-stone-game) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1010-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/1010-powerful-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1048-clumsy-factorial](https://github.com/Anshul407/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1183-statistics-from-a-large-sample](https://github.com/Anshul407/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1010-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/1010-powerful-integers) |
 | [1212-sequential-digits](https://github.com/Anshul407/LeetCode/tree/master/1212-sequential-digits) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
