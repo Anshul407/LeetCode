@@ -26,7 +26,6 @@ public:
             }return ans;
          }
         solve(x,y,bound,0,0,-1);
-       
         vector<int>ans;
         for(auto i:mp)ans.push_back(i.first);
         return ans;
