@@ -33,7 +33,6 @@ public:
     }
     int totalNQueens(int n) {
         int ans=0;
-        
         vector<vector<int>>temp(n,vector<int>(n,0));
         ans+=solve(0,temp);
         return ans;
