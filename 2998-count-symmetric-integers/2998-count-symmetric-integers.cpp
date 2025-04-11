@@ -16,10 +16,7 @@ public:
                 k++;
                 j--;
             }
-            if(a==b)cout<<cur<<" "<<a<<" "<<b<<"--";
-            ans+=(a==b);
-
-            
+            ans+=(a==b);     
         }return ans;
     }
 };
