@@ -1149,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Anshul407/LeetCode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Anshul407/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Anshul407/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Anshul407/LeetCode/tree/master/0131-palindrome-partitioning) |
