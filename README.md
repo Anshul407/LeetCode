@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/Anshul407/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Anshul407/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Anshul407/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Anshul407/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
