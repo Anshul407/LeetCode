@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anshul407/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anshul407/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anshul407/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshul407/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -1308,11 +1311,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Anshul407/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Anshul407/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
 |  |
@@ -1336,4 +1341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
