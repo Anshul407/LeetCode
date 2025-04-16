@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2892-check-if-array-is-good](https://github.com/Anshul407/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Anshul407/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshul407/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshul407/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshul407/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Anshul407/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
