@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Anshul407/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshul407/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshul407/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anshul407/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/Anshul407/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Anshul407/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Anshul407/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Anshul407/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshul407/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Anshul407/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshul407/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Anshul407/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshul407/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anshul407/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
