@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anshul407/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Anshul407/LeetCode/tree/master/0306-additive-number) |
+| [0392-is-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul407/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anshul407/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Anshul407/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Anshul407/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/Anshul407/LeetCode/tree/master/0464-can-i-win) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshul407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshul407/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Anshul407/LeetCode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anshul407/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Anshul407/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Anshul407/LeetCode/tree/master/0556-next-greater-element-iii) |
