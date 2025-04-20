@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select user_id,round(ifnull((select count(*)from Confirmations where user_id=s.user_id and action='confirmed')/(select count(*)from Confirmations where user_id=s.user_id),0),2)as confirmation_rate from Signups as s; 
