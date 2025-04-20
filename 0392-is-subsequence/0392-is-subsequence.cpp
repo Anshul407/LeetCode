@@ -1,18 +1,15 @@
 class Solution {
 public:
-   
+    int solve(string &s,string &t,int i,int j){
+        if(i>=s.size())return 1;
+        if(j>=t.size())return 0;
+        if(s[i]==t[j]){
+            return solve(s,t,i+1,j+1);
+        }else{
+            return solve(s,t,i,j+1);
+        }return 0;
+    }
     bool isSubsequence(string s, string t) {
-        int n=s.length();
-        int m=t.length();
-        vector<vector<int>>tt(n+1,vector<int>(m+1,0));
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<m+1;j++){
-                if(s[i-1]==t[j-1]){
-                    tt[i][j]=1+tt[i-1][j-1];
-                }
-                else tt[i][j]=max(tt[i-1][j],tt[i][j-1]);
-            }
-        }
-        return tt[n][m]==n;
+        return solve(s,t,0,0);
     }
 };
