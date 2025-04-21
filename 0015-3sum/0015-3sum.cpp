@@ -1,29 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        map<int,int>mp;
+        map<vector<int>,int>st;
         sort(nums.begin(),nums.end());
-        vector<vector<int>>ans;
+        for(auto i:nums)mp[i]++;
         for(int i=0;i<nums.size();i++){
-        if(i>0&&nums[i]==nums[i-1])continue;
-           int x=i+1,y=nums.size()-1;
-           while(x<y){
-            if((nums[i]+nums[x]+nums[y]==0)&&(i!=x)&&(i!=y)){
-                auto vec = vector<int>{nums[i], nums[x], nums[y]};
-                // auto it = find(ans.begin(), ans.end(), vec);
-                // if(it==ans.end())
-                ans.push_back(vec);
-                x++;
-                y--;
+            int p=INT_MAX;
+            for(int j=i+1;j<nums.size();j++){
+                if(p!=nums[j])
+                p=nums[j];
+                else continue;
+                auto cur=nums[i]+nums[j];
+                auto req=-1*cur;
+                if(mp.find(req)!=mp.end()){
+                    if(nums[i]==req&&nums[j]==req&&mp[req]<=2)continue;
+                    cout<<req<<" ";
+                    if((nums[i]==req||nums[j]==req)&&mp[req]<=1)continue;
+                    vector<int>v;
+                    v.push_back(nums[i]);
+                    v.push_back(nums[j]);
+                    v.push_back(req);
+                    sort(v.begin(),v.end());
+                    cout<<v[0]<<v[1]<<v[2];
+                    st[v]++;
+                }
             }
-            else if(nums[i]+nums[x]+nums[y]>0){
-                y--;
-            }
-            else{
-                x++;
-            }
-           }
-
         }
+        vector<vector<int>>ans;
+        for(auto i:st)ans.push_back(i.first);
         return ans;
     }
 };
