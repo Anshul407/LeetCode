@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshul407/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anshul407/LeetCode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Anshul407/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshul407/LeetCode/tree/master/0054-spiral-matrix) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anshul407/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anshul407/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anshul407/LeetCode/tree/master/0075-sort-colors) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshul407/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anshul407/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Anshul407/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Anshul407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshul407/LeetCode/tree/master/0151-reverse-words-in-a-string) |
