@@ -5,22 +5,22 @@ public:
     int nn;
     vector<long long>fact,ifact;
     const int x=1e6+1;
-    long long power(long long a, long long b, long long m) {
-    long long res = 1;
-    while (b) {
-        if (b & 1) res = (res * a) % m;
-        a = (a * a) % m;
-        b >>= 1;
-    }
-    return res;
-    }   
-    void precomp(vector<long long>& fact, vector<long long>& ifact) {
-        for (long long i = 1; i < x; i++) {
-            fact[i] = (fact[i - 1] * i) % mod;
+    long long power(long long a,long long b,long long m) {
+        long long res = 1;
+        while(b){
+            if(b&1)res=(res*a)%m;
+            a=(a*a)%m;
+            b>>=1;
         }
-        ifact[x - 1] = power(fact[x - 1], mod - 2, mod);
-        for (int i = x - 2; i >= 0; i--) {
-            ifact[i] = (ifact[i + 1] * (i + 1)) % mod;
+        return res;
+    }   
+    void precomp(vector<long long>&fact,vector<long long>&ifact) {
+        for(long long i=1;i<x;i++) {
+            fact[i]=(fact[i-1]*i)%mod;
+        }
+        ifact[x-1]=power(fact[x-1],mod-2,mod);
+        for (int i=x-2;i>=0;i--) {
+            ifact[i]=(ifact[i + 1]*(i+1))%mod;
         }
     }
     int solve(int n,int maxi,int p){
