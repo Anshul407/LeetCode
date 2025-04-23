@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anshul407/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1447-jump-game-iv](https://github.com/Anshul407/LeetCode/tree/master/1447-jump-game-iv) |
+| [1500-count-largest-group](https://github.com/Anshul407/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anshul407/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Anshul407/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Anshul407/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Anshul407/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Anshul407/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Anshul407/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1500-count-largest-group](https://github.com/Anshul407/LeetCode/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
