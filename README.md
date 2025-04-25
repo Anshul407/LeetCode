@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0458-poor-pigs](https://github.com/Anshul407/LeetCode/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Anshul407/LeetCode/tree/master/0464-can-i-win) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Anshul407/LeetCode/tree/master/0526-beautiful-arrangement) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Anshul407/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
+| [0458-poor-pigs](https://github.com/Anshul407/LeetCode/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Anshul407/LeetCode/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Anshul407/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anshul407/LeetCode/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Anshul407/LeetCode/tree/master/0458-poor-pigs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Anshul407/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
