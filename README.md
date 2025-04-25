@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Anshul407/LeetCode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2892-check-if-array-is-good](https://github.com/Anshul407/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [2915-count-of-interesting-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Anshul407/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Anshul407/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [2915-count-of-interesting-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anshul407/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Anshul407/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 ## Binary Search
 |  |
