@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Anshul407/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Anshul407/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshul407/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anshul407/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Anshul407/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Anshul407/LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Anshul407/LeetCode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Anshul407/LeetCode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anshul407/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Anshul407/LeetCode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshul407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anshul407/LeetCode/tree/master/0792-binary-search) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Anshul407/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Anshul407/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Anshul407/LeetCode/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshul407/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
