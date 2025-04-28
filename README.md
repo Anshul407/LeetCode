@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Anshul407/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Anshul407/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anshul407/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Anshul407/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshul407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anshul407/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Anshul407/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
