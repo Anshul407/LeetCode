@@ -1,23 +1,22 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& grid,int i,int j){
-        if(i<0||j<0||i>grid.size()-1||j>grid[0].size()-1||grid[i][j]=='0')return ;
-        grid[i][j]='0';
-        dfs(grid,i-1,j);
-        dfs(grid,i+1,j);
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
+    void solve(vector<vector<char>>&g,int i,int j){
+        if(i<0||j<0||i>=g.size()||j>=g[0].size()||g[i][j]=='0')return ;
+        g[i][j]='0';
+        solve(g,i-1,j);
+        solve(g,i+1,j);
+        solve(g,i,j-1);
+        solve(g,i,j+1);
     }
     int numIslands(vector<vector<char>>& grid) {
-        int cnt=0;
+        int ans=0;
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid[0].size();j++){
                 if(grid[i][j]=='1'){
-                    cnt++;
-                    dfs(grid,i,j);
+                    ans++;
+                    solve(grid,i,j);
                 }
             }
-        }
-        return cnt;
+        }return ans;
     }
 };
