@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool canFinish(int num, vector<vector<int>>& courses) {
-
-         int n=num;
-        vector<int> adj[n];
-        vector<int> indegree(n,0);
-            for(auto x:courses){
-            adj[x[0]].push_back(x[1]);
-            indegree[x[1]]++;
+ 
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        map<int,vector<int>>mp;
+        vector<int>in(n,0);
+        for(auto i:pre){
+            mp[i[0]].push_back(i[1]);
+            mp[i[1]].push_back(i[0]);
+            in[i[1]]++;
         }
         queue<int>q;
         for(int i=0;i<n;i++){
-            if(indegree[i]==0)q.push(i);
+            if(in[i]==0)q.push(i);
         }
-        int cnt=0;
+        int ans=0;
         while(!q.empty()){
-int node=q.front();
-q.pop();
-cnt++;
-            for(auto i:adj[node]){
-                indegree[i]--;
-                if(indegree[i]==0)q.push(i);
+            ans++;
+            auto cur=q.front();
+            q.pop();
+            for(auto v:mp[cur]){
+                in[v]--;
+                if(in[v]==0){
+                    q.push(v);
+                }
             }
-        }
-    return cnt==n;
-        
+        }return ans==n;
     }
 };
