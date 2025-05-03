@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anshul407/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshul407/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/Anshul407/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/Anshul407/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Anshul407/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshul407/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/Anshul407/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anshul407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Anshul407/LeetCode/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1368,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshul407/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Anshul407/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/Anshul407/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anshul407/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
 |  |
