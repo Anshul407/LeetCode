@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2543-most-popular-video-creator](https://github.com/Anshul407/LeetCode/tree/master/2543-most-popular-video-creator) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Anshul407/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anshul407/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2543-most-popular-video-creator](https://github.com/Anshul407/LeetCode/tree/master/2543-most-popular-video-creator) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1271,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Anshul407/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Backtracking
 |  |
