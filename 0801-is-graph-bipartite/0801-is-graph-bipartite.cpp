@@ -5,14 +5,17 @@ public:
         for(auto v:mp[i]){
             if(vis[v]==cur)return 0;
             if(vis[v]==-1){
-                vis[v]=!cur;
                 if(!solve(v,mp,vis,!cur))return 0;
             }
         }return 1;
     }
     bool isBipartite(vector<vector<int>>& graph) {
-        
         vector<int>vis(graph.size(),-1);
-        return solve(0,graph,vis,0);
+        for(int i=0;i<graph.size();i++){
+            if(vis[i]==-1){
+                if(!solve(i,graph,vis,0))return 0;
+            }
+        }
+        return 1;
     }
 };
