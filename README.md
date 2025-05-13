@@ -1450,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Anshul407/LeetCode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anshul407/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Anshul407/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Anshul407/LeetCode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Anshul407/LeetCode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Anshul407/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Anshul407/LeetCode/tree/master/0610-triangle-judgement) |
