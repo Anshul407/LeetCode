@@ -1,56 +1,47 @@
 class Solution {
 public:
-    typedef pair<int, pair<int, int>> P;
-    vector<vector<int>> directions = {
-                {-1,0},
-        {0,-1},         {0,1},
-                {1, 0}
-    };
     int minimumEffortPath(vector<vector<int>>& heights) {
-        int m = heights.size();
-        int n = heights[0].size();
-        
-        auto isSafe = [&](int x, int y) {
-            return x>=0 && x<m && y>=0 && y<n;
-        };
-        
-        vector<vector<int>> result(m, vector<int>(n, INT_MAX));
-        priority_queue<P, vector<P>, greater<P>> pq;
-        
-        pq.push({0, {0, 0}});
-        result[0][0] = 0;
-  
-        while(!pq.empty()) {
-            int diff  = pq.top().first;
-            auto node = pq.top().second;
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
+        pq.push({0,0,0});
+        vector<vector<int>>res(heights.size(),vector<int>(heights[0].size(),INT_MAX));
+        res[0][0]=0;
+        while(!pq.empty()){
+            auto cur=pq.top();
             pq.pop();
-
-            int x = node.first;
-            int y = node.second;
+            auto d=cur[0];
+            auto i=cur[1];
+            auto j=cur[2];
             
-            //Why returning now ?
-            //Because there is no way that the rest of elements can update the weight of destination cell even smaller due to the min heap.
-            if(x == m-1 && y == n-1)
-                return diff;
-            
-	    for(auto dir:directions) {
-		int x_   = x + dir[0];
-		int y_   = y + dir[1];
-
-		if(isSafe(x_, y_)) {
-
-		    int newDiff = max(diff, abs(heights[x][y] - heights[x_][y_]));
-		    if(result[x_][y_] > newDiff) {
-			result[x_][y_] = newDiff;
-			pq.push({result[x_][y_], {x_, y_}});
-		    }
-		}
-	     }
+            if(i-1>=0){
+                auto diff=max(d,abs(heights[i][j]-heights[i-1][j]));
+                if(res[i-1][j]>diff){
+                    res[i-1][j]=diff;
+                    pq.push({diff,i-1,j});
+                }
+            }
+            if(i+1<heights.size()){
+                auto diff=max(d,abs(heights[i][j]-heights[i+1][j]));
+                if(res[i+1][j]>diff){
+                    res[i+1][j]=diff;
+                    pq.push({diff,i+1,j});
+                }
+            }
+            if(j-1>=0){
+                auto diff=max(d,abs(heights[i][j]-heights[i][j-1]));
+                if(res[i][j-1]>diff){
+                    res[i][j-1]=diff;
+                    pq.push({diff,i,j-1});
+                }
+            }
+            if(j+1<heights[0].size()){
+                auto diff=max(d,abs(heights[i][j]-heights[i][j+1]));
+                if(res[i][j+1]>diff){
+                    res[i][j+1]=diff;
+                    pq.push({diff,i,j+1});
+                }
+            }
         }
-   
-        return result[m-1][n-1];
+        return res[res.size()-1][res[0].size()-1];
 
     }
 };
-
-
