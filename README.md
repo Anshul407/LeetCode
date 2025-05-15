@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anshul407/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshul407/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Anshul407/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Anshul407/LeetCode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Anshul407/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1758-distribute-repeating-integers](https://github.com/Anshul407/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshul407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Anshul407/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Anshul407/LeetCode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1375,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Anshul407/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1758-distribute-repeating-integers](https://github.com/Anshul407/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Anshul407/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2848-special-permutations](https://github.com/Anshul407/LeetCode/tree/master/2848-special-permutations) |
