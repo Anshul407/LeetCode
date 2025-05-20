@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-maximum-points-tourist-can-earn](https://github.com/Anshul407/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anshul407/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Anshul407/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Anshul407/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Anshul407/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sorting
 |  |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
+| [3639-zero-array-transformation-i](https://github.com/Anshul407/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
