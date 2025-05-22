@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode*,int>mp;
-    int f(TreeNode*root){
+    unordered_map<TreeNode*,int>dp;
+    int ht(TreeNode*root){
         if(!root)return 0;
-        if(mp.find(root)!=mp.end())return mp[root];
-        return mp[root]= 1+max(f(root->left),f(root->right));
+        if(dp.count(root))return dp[root];
+        return dp[root]=1+max(ht(root->left),ht(root->right));
+    }
+    int solve(TreeNode*root){
+        if(!root)return 0;
+        auto cur=ht(root->left)+ht(root->right);
+        return max({cur,solve(root->left),solve(root->right)});
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(!root)return 0;
-        int lh=f(root->left);
-        int rh=f(root->right);
-        int ld=diameterOfBinaryTree(root->left);
-        int rd=diameterOfBinaryTree(root->right);
-
-        return max({lh+rh,ld,rd});
+        ht(root);
+        return solve(root);
     }
 };
