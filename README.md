@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Anshul407/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshul407/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshul407/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anshul407/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/Anshul407/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Anshul407/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anshul407/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshul407/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshul407/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Anshul407/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Anshul407/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1758-distribute-repeating-integers](https://github.com/Anshul407/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Anshul407/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Anshul407/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Anshul407/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/Anshul407/LeetCode/tree/master/2198-process-restricted-friend-requests) |
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Anshul407/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshul407/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshul407/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Trie
@@ -1417,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anshul407/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Anshul407/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Bitmask
