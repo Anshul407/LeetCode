@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anshul407/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anshul407/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Anshul407/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshul407/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1216,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anshul407/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Anshul407/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Anshul407/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anshul407/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anshul407/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
