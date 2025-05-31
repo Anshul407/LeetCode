@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0922-possible-bipartition](https://github.com/Anshul407/LeetCode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/Anshul407/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Anshul407/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Anshul407/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/Anshul407/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Anshul407/LeetCode/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/Anshul407/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Anshul407/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshul407/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Anshul407/LeetCode/tree/master/1041-available-captures-for-rook) |
