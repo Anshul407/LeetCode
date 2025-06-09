@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-rearrange-words-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshul407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Anshul407/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/Anshul407/LeetCode/tree/master/1660-thousand-separator) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshul407/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshul407/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Anshul407/LeetCode/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Anshul407/LeetCode/tree/master/1522-stone-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Anshul407/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1806-count-of-matches-in-tournament](https://github.com/Anshul407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Anshul407/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
