@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3308-apply-operations-to-make-string-empty](https://github.com/Anshul407/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshul407/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anshul407/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3373-maximum-prime-difference](https://github.com/Anshul407/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3429-special-array-i](https://github.com/Anshul407/LeetCode/tree/master/3429-special-array-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Anshul407/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Anshul407/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anshul407/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3373-maximum-prime-difference](https://github.com/Anshul407/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Anshul407/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshul407/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anshul407/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -1406,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Anshul407/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3373-maximum-prime-difference](https://github.com/Anshul407/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Backtracking
 |  |
 | ------- |
