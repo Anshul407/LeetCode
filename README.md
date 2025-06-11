@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Anshul407/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Anshul407/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Anshul407/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshul407/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Anshul407/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anshul407/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshul407/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anshul407/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
