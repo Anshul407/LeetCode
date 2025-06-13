@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Anshul407/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/Anshul407/LeetCode/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/Anshul407/LeetCode/tree/master/0869-similar-string-groups) |
+| [0876-hand-of-straights](https://github.com/Anshul407/LeetCode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Anshul407/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Anshul407/LeetCode/tree/master/0952-word-subsets) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0852-friends-of-appropriate-ages](https://github.com/Anshul407/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0869-similar-string-groups](https://github.com/Anshul407/LeetCode/tree/master/0869-similar-string-groups) |
+| [0876-hand-of-straights](https://github.com/Anshul407/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Anshul407/LeetCode/tree/master/0878-shifting-letters) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/Anshul407/LeetCode/tree/master/0898-transpose-matrix) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
 | [0852-friends-of-appropriate-ages](https://github.com/Anshul407/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0876-hand-of-straights](https://github.com/Anshul407/LeetCode/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Anshul407/LeetCode/tree/master/1308-smallest-string-with-swaps) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/Anshul407/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/Anshul407/LeetCode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Anshul407/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anshul407/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
