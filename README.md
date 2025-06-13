@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anshul407/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anshul407/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anshul407/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/Anshul407/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anshul407/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/Anshul407/LeetCode/tree/master/0565-array-nesting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anshul407/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Anshul407/LeetCode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshul407/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anshul407/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anshul407/LeetCode/tree/master/0721-accounts-merge) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anshul407/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Anshul407/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshul407/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Anshul407/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/Anshul407/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anshul407/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -822,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Anshul407/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0936-rle-iterator](https://github.com/Anshul407/LeetCode/tree/master/0936-rle-iterator) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Anshul407/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1191,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anshul407/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshul407/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Anshul407/LeetCode/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Anshul407/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Anshul407/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Anshul407/LeetCode/tree/master/0744-network-delay-time) |
