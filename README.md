@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/Anshul407/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshul407/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Anshul407/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anshul407/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Anshul407/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/Anshul407/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anshul407/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Anshul407/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anshul407/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Anshul407/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anshul407/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Anshul407/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Anshul407/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Anshul407/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
