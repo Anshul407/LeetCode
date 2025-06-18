@@ -1,28 +1,28 @@
 class Solution {
 public:
-    void mp(vector<int>nums,vector<int>op,vector<vector<int>>&ans){
-        if(nums.size()==0){
-            ans.push_back(op);
+    void solve(vector<int>&nums,vector<int>&t,vector<vector<int>>&ans,vector<int>&vis){
+        if(t.size()==nums.size()){
+            ans.push_back(t);
             return ;
         }
-        map<int,int>m;
         for(int i=0;i<nums.size();i++){
-            if(m[nums[i]]==0){
-                m[nums[i]]++;
-                vector<int>nums2(nums);
-                vector<int>op1(op);
-                op1.push_back(nums[i]);
-                nums2.erase(nums2.begin()+i);
-                mp(nums2,op1,ans);
-                op1.pop_back();
+            if(i!=0&&nums[i]==nums[i-1]&&!vis[i-1])continue;
+            if(vis[i]==0){
+                vis[i]=1;
+                t.push_back(nums[i]);
+                solve(nums,t,ans,vis);
+                vis[i]=0;
+                t.pop_back();
             }
-            else continue;
         }
+
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        vector<int>t;
+       vector<int>vis(nums.size(),0);
         vector<vector<int>>ans;
-        vector<int>op;
-        mp(nums,op,ans);
+        solve(nums,t,ans,vis);
         return ans;
     }
 };
