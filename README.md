@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anshul407/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0994-prison-cells-after-n-days](https://github.com/Anshul407/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/1010-powerful-integers) |
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshul407/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Anshul407/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anshul407/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0994-prison-cells-after-n-days](https://github.com/Anshul407/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anshul407/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Anshul407/LeetCode/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Anshul407/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshul407/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0994-prison-cells-after-n-days](https://github.com/Anshul407/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshul407/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Anshul407/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/Anshul407/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0909-stone-game](https://github.com/Anshul407/LeetCode/tree/master/0909-stone-game) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Anshul407/LeetCode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0994-prison-cells-after-n-days](https://github.com/Anshul407/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/1010-powerful-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/Anshul407/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1048-clumsy-factorial](https://github.com/Anshul407/LeetCode/tree/master/1048-clumsy-factorial) |
