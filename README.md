@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anshul407/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Anshul407/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Anshul407/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anshul407/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshul407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anshul407/LeetCode/tree/master/0055-jump-game) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anshul407/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Anshul407/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anshul407/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anshul407/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anshul407/LeetCode/tree/master/0075-sort-colors) |
@@ -1443,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshul407/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Anshul407/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anshul407/LeetCode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Anshul407/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Anshul407/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anshul407/LeetCode/tree/master/0079-word-search) |
