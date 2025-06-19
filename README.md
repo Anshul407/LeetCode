@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshul407/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anshul407/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anshul407/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Anshul407/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Anshul407/LeetCode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anshul407/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anshul407/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anshul407/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Anshul407/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anshul407/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Anshul407/LeetCode/tree/master/2509-minimize-xor) |
