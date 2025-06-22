@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anshul407/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Anshul407/LeetCode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anshul407/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Anshul407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anshul407/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Anshul407/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anshul407/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshul407/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Anshul407/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
