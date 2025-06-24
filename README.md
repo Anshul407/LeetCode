@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul407/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anshul407/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Anshul407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Anshul407/LeetCode/tree/master/2561-number-of-distinct-averages) |
