@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshul407/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2444-longest-ideal-subsequence](https://github.com/Anshul407/LeetCode/tree/master/2444-longest-ideal-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Anshul407/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Anshul407/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anshul407/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anshul407/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshul407/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/Anshul407/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshul407/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Anshul407/LeetCode/tree/master/2509-minimize-xor) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-total-appeal-of-a-string](https://github.com/Anshul407/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2348-count-number-of-texts](https://github.com/Anshul407/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshul407/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Anshul407/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Anshul407/LeetCode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -1491,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshul407/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Anshul407/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Anshul407/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Bitmask
