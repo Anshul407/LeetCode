@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Anshul407/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshul407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Anshul407/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anshul407/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anshul407/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Anshul407/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Anshul407/LeetCode/tree/master/1656-count-good-triplets) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/Anshul407/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anshul407/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anshul407/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anshul407/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshul407/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Anshul407/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anshul407/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anshul407/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anshul407/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Anshul407/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anshul407/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1211,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Anshul407/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1080-camelcase-matching](https://github.com/Anshul407/LeetCode/tree/master/1080-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshul407/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anshul407/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1659-get-the-maximum-score](https://github.com/Anshul407/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anshul407/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshul407/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
