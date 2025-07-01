@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anshul407/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anshul407/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Anshul407/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Anshul407/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Anshul407/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
