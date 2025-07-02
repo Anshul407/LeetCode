@@ -1,6 +1,6 @@
-class Solution {
-    static constexpr int MOD = 1'000'000'007;
+class Solution {  
 public:
+const int MOD = 1e9+7;
     int possibleStringCount(string word, int k) {
         vector<int> groups;
         for(int i = 0, n = word.size(); i < n; ) {
