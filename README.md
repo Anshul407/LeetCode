@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anshul407/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3540-hash-divided-string](https://github.com/Anshul407/LeetCode/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Anshul407/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anshul407/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Anshul407/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Anshul407/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshul407/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshul407/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Anshul407/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anshul407/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Anshul407/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Anshul407/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul407/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshul407/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/3265-maximum-good-subarray-sum) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anshul407/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Anshul407/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshul407/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anshul407/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
