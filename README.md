@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-distribute-repeating-integers](https://github.com/Anshul407/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Anshul407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshul407/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Anshul407/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshul407/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anshul407/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anshul407/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshul407/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anshul407/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshul407/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2125-gcd-sort-of-an-array](https://github.com/Anshul407/LeetCode/tree/master/2125-gcd-sort-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anshul407/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Anshul407/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-count-all-possible-routes](https://github.com/Anshul407/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1758-distribute-repeating-integers](https://github.com/Anshul407/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1808-stone-game-vii](https://github.com/Anshul407/LeetCode/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshul407/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Anshul407/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anshul407/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Anshul407/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anshul407/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anshul407/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Anshul407/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshul407/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Anshul407/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anshul407/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Anshul407/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
