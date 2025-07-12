@@ -2,19 +2,13 @@ class Solution {
 public:
     char findTheDifference(string s, string t) {
         map<char,int>mp;
-        for(auto i:s){
-            mp[i]++;
-        }
+        for(auto i:s)mp[i]++;
         for(auto i:t){
-            mp[i]++;
+            if(mp.find(i)==mp.end())return i;
+            mp[i]--;
+            if(mp[i]==0)mp.erase(i);
         }
-        for(auto i:mp){
-            if(i.second%2!=0){
-                return i.first;
-                break;
-            }
-        }
-        char ans;
-        return ans;
+        char c='a';
+        return c;
     }
 };
