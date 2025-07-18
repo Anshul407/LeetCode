@@ -1,31 +1,50 @@
 class NumArray {
 public:
-    vector<int>temp;
-    vector<int>temp2;
-    void init(){
-        for(int i=1;i<temp.size();i++){
-            temp[i]=temp[i]+temp[i-1];
+    vector<int>segt,num;
+    void init(int n){
+        segt.resize(4*n);
+    }
+    void build(int i,int l,int r){
+        if(l==r){
+            segt[i]=num[l];
+            return ;
         }
+        int mid=(l+r)/2;
+        build(2*i+1,l,mid);
+        build(2*i+2,mid+1,r);
+        segt[i]=segt[2*i+1]+segt[2*i+2];
+    }
+    void anshulupdate(int val,int index,int l,int r,int i){
+        if(l==r){
+            segt[i]=val;
+            return ;
+        }
+        int mid=(l+r)/2;
+        if(index<=mid){
+            anshulupdate(val,index,l,mid,2*i+1);
+        }else anshulupdate(val,index,mid+1,r,2*i+2);
+        segt[i]=segt[2*i+1]+segt[2*i+2];
+    }
+    int anshulquery(int st,int end,int l,int r,int i){
+        if(l>end||r<st)return 0;
+        if(l>=st&&r<=end)return segt[i];
+        auto mid=(l+r)/2;
+        int leftans=anshulquery(st,end,l,mid,2*i+1);
+        int rightans=anshulquery(st,end,mid+1,r,2*i+2);
+        return leftans+rightans;
     }
     NumArray(vector<int>& nums) {
-        temp=nums;
-        temp2=nums;
-        init();
+        num=nums;
+        init(nums.size());
+        build(0,0,nums.size()-1);
     }
     
     void update(int index, int val) {
-        int diff=val-temp2[index];
-        temp2[index]=val;
-        for(int i=index;i<temp.size();i++) {
-            temp[i]+=diff;
-        }
-        
+        anshulupdate(val,index,0,num.size()-1,0);
     }
     
     int sumRange(int left, int right) {
-        if(left>0){
-            return temp[right]-temp[left-1];
-        }else return temp[right];
+        return anshulquery(left,right,0,num.size()-1,0);
     }
 };
 
