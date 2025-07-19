@@ -1,16 +1,6 @@
 class Solution {
 public:
     int maxi;
-    // long long solve(int node,vector<bool>&on,long long k,long long curcost,long long curans){
-    //     if(curcost>k||on[node]==0)return -1e6;
-    //     if(node==on.size()-1)return curans;
-    //     long long ans=INT_MIN;
-    //     for(auto &v:mp[node]){
-    //         long long cur=solve(v.first,on,k,curcost+v.second,min(curans,v.second));
-    //         ans=max(ans,cur);
-    //     }return ans;
-        
-    // }
     long long bfs(int node,vector<bool>&on,long long k, unordered_map<int,vector<pair<int,long long>>>&mp){
         queue<pair<int,pair<long long,int>>>q;
         q.push({node,{0,INT_MAX}});
