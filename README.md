@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Anshul407/LeetCode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshul407/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Anshul407/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/Anshul407/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anshul407/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshul407/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Anshul407/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Anshul407/LeetCode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anshul407/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Anshul407/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Anshul407/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Anshul407/LeetCode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/Anshul407/LeetCode/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Anshul407/LeetCode/tree/master/0464-can-i-win) |
