@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anshul407/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Anshul407/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anshul407/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anshul407/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anshul407/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Anshul407/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
